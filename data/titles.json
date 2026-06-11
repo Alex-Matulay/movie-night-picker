@@ -1,0 +1,2941 @@
+{
+  "updated": "2026-06-11",
+  "source": "curated",
+  "titles": [
+    {
+      "title": "The Grand Budapest Hotel",
+      "type": "movie",
+      "year": 2014,
+      "genres": [
+        "comedy",
+        "adventure"
+      ],
+      "moods": [
+        "laugh",
+        "escape",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 99,
+      "rating": 8.1,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A legendary concierge and his lobby boy get tangled in a caper over a priceless painting, told in Wes Anderson's candy-box style."
+    },
+    {
+      "title": "Game Night",
+      "type": "movie",
+      "year": 2018,
+      "genres": [
+        "comedy",
+        "thriller"
+      ],
+      "moods": [
+        "laugh",
+        "thrill"
+      ],
+      "tone": "light",
+      "runtime": 100,
+      "rating": 6.9,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A couples' game night spirals into a real kidnapping plot nobody believes is real — sharp, twisty, and genuinely funny."
+    },
+    {
+      "title": "Palm Springs",
+      "type": "movie",
+      "year": 2020,
+      "genres": [
+        "comedy",
+        "romance",
+        "scifi"
+      ],
+      "moods": [
+        "laugh",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 90,
+      "rating": 7.4,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Two wedding guests stuck in a time loop together — the perfect mix of silly and surprisingly sweet."
+    },
+    {
+      "title": "The Nice Guys",
+      "type": "movie",
+      "year": 2016,
+      "genres": [
+        "comedy",
+        "crime"
+      ],
+      "moods": [
+        "laugh",
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 116,
+      "rating": 7.3,
+      "language": "en",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A bumbling PI and a hired enforcer team up in 1970s LA — a buddy comedy with real bite."
+    },
+    {
+      "title": "Paddington 2",
+      "type": "movie",
+      "year": 2017,
+      "genres": [
+        "comedy",
+        "family"
+      ],
+      "moods": [
+        "laugh",
+        "cozy",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 103,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "The politest bear in cinema goes to prison and makes it wholesome. Pure serotonin for any couple."
+    },
+    {
+      "title": "Chef",
+      "type": "movie",
+      "year": 2014,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "moods": [
+        "cozy",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 114,
+      "rating": 7.3,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A burnt-out chef rediscovers his joy with a food truck and his son. Do not watch hungry."
+    },
+    {
+      "title": "Crazy Rich Asians",
+      "type": "movie",
+      "year": 2018,
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "moods": [
+        "laugh",
+        "feels",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 120,
+      "rating": 6.9,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Meeting the in-laws, except the in-laws are Singapore's most extravagant dynasty."
+    },
+    {
+      "title": "About Time",
+      "type": "movie",
+      "year": 2013,
+      "genres": [
+        "romance",
+        "drama",
+        "scifi"
+      ],
+      "moods": [
+        "feels",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 123,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "A man who can travel through time learns the ordinary days are the ones worth reliving. A guaranteed happy cry."
+    },
+    {
+      "title": "La La Land",
+      "type": "movie",
+      "year": 2016,
+      "genres": [
+        "romance",
+        "musical",
+        "drama"
+      ],
+      "moods": [
+        "feels",
+        "escape"
+      ],
+      "tone": "medium",
+      "runtime": 128,
+      "rating": 8,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "An aspiring actress and a jazz pianist chase their dreams — and each other — through a dreamlike Los Angeles."
+    },
+    {
+      "title": "The Princess Bride",
+      "type": "movie",
+      "year": 1987,
+      "genres": [
+        "adventure",
+        "comedy",
+        "romance"
+      ],
+      "moods": [
+        "laugh",
+        "cozy",
+        "escape"
+      ],
+      "tone": "light",
+      "runtime": 98,
+      "rating": 8,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Fencing, fighting, torture, revenge, giants, true love — the fairy tale that never gets old."
+    },
+    {
+      "title": "Groundhog Day",
+      "type": "movie",
+      "year": 1993,
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "moods": [
+        "laugh",
+        "think",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 101,
+      "rating": 8,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "A cynical weatherman relives the same day until he gets it right. The comfort-watch time loop original."
+    },
+    {
+      "title": "Hot Fuzz",
+      "type": "movie",
+      "year": 2007,
+      "genres": [
+        "comedy",
+        "action"
+      ],
+      "moods": [
+        "laugh",
+        "thrill"
+      ],
+      "tone": "light",
+      "runtime": 121,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A London supercop gets reassigned to a sleepy village where nothing is what it seems. Endlessly rewatchable."
+    },
+    {
+      "title": "Knives Out",
+      "type": "movie",
+      "year": 2019,
+      "genres": [
+        "mystery",
+        "comedy",
+        "crime"
+      ],
+      "moods": [
+        "thrill",
+        "laugh",
+        "think"
+      ],
+      "tone": "light",
+      "runtime": 130,
+      "rating": 7.9,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A master detective untangles a wealthy family's secrets after a suspicious death. A whodunit you'll solve together."
+    },
+    {
+      "title": "Glass Onion: A Knives Out Mystery",
+      "type": "movie",
+      "year": 2022,
+      "genres": [
+        "mystery",
+        "comedy",
+        "crime"
+      ],
+      "moods": [
+        "thrill",
+        "laugh"
+      ],
+      "tone": "light",
+      "runtime": 139,
+      "rating": 7.1,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Benoit Blanc crashes a billionaire's private-island murder mystery party — and finds a real one."
+    },
+    {
+      "title": "Gone Girl",
+      "type": "movie",
+      "year": 2014,
+      "genres": [
+        "thriller",
+        "mystery",
+        "drama"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 149,
+      "rating": 8.1,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A wife vanishes and her husband becomes the prime suspect. The ultimate 'discuss afterwards' couple thriller."
+    },
+    {
+      "title": "Prisoners",
+      "type": "movie",
+      "year": 2013,
+      "genres": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 153,
+      "rating": 8.1,
+      "language": "en",
+      "pace": "slow",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A father takes the search for his missing daughter into his own hands. Bleak, gripping, masterful."
+    },
+    {
+      "title": "No Country for Old Men",
+      "type": "movie",
+      "year": 2007,
+      "genres": [
+        "thriller",
+        "crime"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 122,
+      "rating": 8.2,
+      "language": "en",
+      "pace": "slow",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A hunter stumbles on drug money and an unstoppable killer follows. The Coens' modern western masterpiece."
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "type": "movie",
+      "year": 2015,
+      "genres": [
+        "action",
+        "scifi"
+      ],
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "runtime": 120,
+      "rating": 8.1,
+      "language": "en",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "One long, glorious chase across the wasteland. Two hours of pure adrenaline you can both yell at."
+    },
+    {
+      "title": "Top Gun: Maverick",
+      "type": "movie",
+      "year": 2022,
+      "genres": [
+        "action",
+        "drama"
+      ],
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "light",
+      "runtime": 130,
+      "rating": 8.2,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Maverick returns to train a new generation for an impossible mission. Crowd-pleasing from first frame to last."
+    },
+    {
+      "title": "The Departed",
+      "type": "movie",
+      "year": 2006,
+      "genres": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 151,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A cop inside the mob, a mobster inside the police — Scorsese's cat-and-mouse classic."
+    },
+    {
+      "title": "Parasite",
+      "type": "movie",
+      "year": 2019,
+      "genres": [
+        "thriller",
+        "drama",
+        "comedy"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 132,
+      "rating": 8.5,
+      "language": "ko",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A poor family cons its way into a rich household — then the floor drops out. Best Picture for a reason."
+    },
+    {
+      "title": "Get Out",
+      "type": "movie",
+      "year": 2017,
+      "genres": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 104,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Meeting your girlfriend's parents has never been this terrifying. Smart horror you'll dissect for days."
+    },
+    {
+      "title": "A Quiet Place",
+      "type": "movie",
+      "year": 2018,
+      "genres": [
+        "horror",
+        "thriller"
+      ],
+      "moods": [
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 90,
+      "rating": 7.5,
+      "language": "en",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A family survives in silence among creatures that hunt by sound. Ninety minutes of held breath."
+    },
+    {
+      "title": "Hereditary",
+      "type": "movie",
+      "year": 2018,
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "runtime": 127,
+      "rating": 7.3,
+      "language": "en",
+      "pace": "slow",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A family unravels after a death reveals something darker in their bloodline. Not for the faint of heart."
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "type": "movie",
+      "year": 1991,
+      "genres": [
+        "thriller",
+        "crime",
+        "horror"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 118,
+      "rating": 8.6,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A young FBI trainee must charm one monster to catch another. Still the gold standard of psychological thrillers."
+    },
+    {
+      "title": "The Notebook",
+      "type": "movie",
+      "year": 2004,
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "runtime": 123,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "A summer romance tested by class, war, and time. Bring tissues — both of you."
+    },
+    {
+      "title": "Pride & Prejudice",
+      "type": "movie",
+      "year": 2005,
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "moods": [
+        "feels",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 129,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Elizabeth Bennet and Mr. Darcy spar their way into history's most satisfying slow burn."
+    },
+    {
+      "title": "Her",
+      "type": "movie",
+      "year": 2013,
+      "genres": [
+        "romance",
+        "drama",
+        "scifi"
+      ],
+      "moods": [
+        "feels",
+        "think"
+      ],
+      "tone": "medium",
+      "runtime": 126,
+      "rating": 8,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "A lonely writer falls in love with an AI. Tender, strange, and more relevant every year."
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "type": "movie",
+      "year": 2004,
+      "genres": [
+        "romance",
+        "drama",
+        "scifi"
+      ],
+      "moods": [
+        "feels",
+        "think"
+      ],
+      "tone": "medium",
+      "runtime": 108,
+      "rating": 8.3,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "A couple erases each other from their memories — and discovers what's worth keeping. A love story in reverse."
+    },
+    {
+      "title": "Up",
+      "type": "movie",
+      "year": 2009,
+      "genres": [
+        "animation",
+        "adventure",
+        "family"
+      ],
+      "moods": [
+        "feels",
+        "escape",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 96,
+      "rating": 8.3,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A widower ties balloons to his house and floats toward an old promise. The first ten minutes alone are legend."
+    },
+    {
+      "title": "Coco",
+      "type": "movie",
+      "year": 2017,
+      "genres": [
+        "animation",
+        "family",
+        "musical"
+      ],
+      "moods": [
+        "feels",
+        "escape",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 105,
+      "rating": 8.4,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A boy journeys into the Land of the Dead to uncover his family's musical secret. Gorgeous and guaranteed tears."
+    },
+    {
+      "title": "Inside Out",
+      "type": "movie",
+      "year": 2015,
+      "genres": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "moods": [
+        "feels",
+        "laugh",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 95,
+      "rating": 8.1,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Joy, Sadness, and the rest of an 11-year-old's emotions navigate a family move. Smarter than most dramas."
+    },
+    {
+      "title": "Marriage Story",
+      "type": "movie",
+      "year": 2019,
+      "genres": [
+        "drama"
+      ],
+      "moods": [
+        "feels",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 137,
+      "rating": 7.9,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "A marriage comes apart with love still in it. Devastating, honest, and brilliantly acted."
+    },
+    {
+      "title": "Past Lives",
+      "type": "movie",
+      "year": 2023,
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "moods": [
+        "feels",
+        "think"
+      ],
+      "tone": "medium",
+      "runtime": 105,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Childhood sweethearts reunite decades later across two continents and ask 'what if'. Quietly shattering."
+    },
+    {
+      "title": "CODA",
+      "type": "movie",
+      "year": 2021,
+      "genres": [
+        "drama",
+        "comedy",
+        "musical"
+      ],
+      "moods": [
+        "feels",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 111,
+      "rating": 8,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "The only hearing member of a deaf family discovers her voice. The feel-good Best Picture winner."
+    },
+    {
+      "title": "Little Women",
+      "type": "movie",
+      "year": 2019,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "moods": [
+        "feels",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 135,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "The March sisters grow up, fall in love, and chase their ambitions in Greta Gerwig's warm retelling."
+    },
+    {
+      "title": "Inception",
+      "type": "movie",
+      "year": 2010,
+      "genres": [
+        "scifi",
+        "action",
+        "thriller"
+      ],
+      "moods": [
+        "think",
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "runtime": 148,
+      "rating": 8.8,
+      "language": "en",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A thief who steals secrets from dreams takes one last job: planting an idea. You'll argue about the ending."
+    },
+    {
+      "title": "Interstellar",
+      "type": "movie",
+      "year": 2014,
+      "genres": [
+        "scifi",
+        "drama",
+        "adventure"
+      ],
+      "moods": [
+        "think",
+        "feels",
+        "escape"
+      ],
+      "tone": "medium",
+      "runtime": 169,
+      "rating": 8.7,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A father crosses galaxies to save humanity — and get back to his daughter. Space epic with a beating heart."
+    },
+    {
+      "title": "Arrival",
+      "type": "movie",
+      "year": 2016,
+      "genres": [
+        "scifi",
+        "drama",
+        "mystery"
+      ],
+      "moods": [
+        "think",
+        "feels"
+      ],
+      "tone": "medium",
+      "runtime": 116,
+      "rating": 7.9,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A linguist races to decode an alien language before the world panics. Cerebral sci-fi with an emotional gut punch."
+    },
+    {
+      "title": "The Prestige",
+      "type": "movie",
+      "year": 2006,
+      "genres": [
+        "mystery",
+        "drama",
+        "thriller"
+      ],
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 130,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Two rival magicians destroy themselves chasing the perfect trick. Watch closely."
+    },
+    {
+      "title": "Shutter Island",
+      "type": "movie",
+      "year": 2010,
+      "genres": [
+        "thriller",
+        "mystery"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 138,
+      "rating": 8.2,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A U.S. Marshal investigates a disappearance at an asylum for the criminally insane. Nothing is as it seems."
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "type": "movie",
+      "year": 2022,
+      "genres": [
+        "scifi",
+        "comedy",
+        "drama",
+        "action"
+      ],
+      "moods": [
+        "think",
+        "laugh",
+        "feels",
+        "escape"
+      ],
+      "tone": "medium",
+      "runtime": 139,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A laundromat owner must channel every version of herself across the multiverse to save her family. Unclassifiable and unforgettable."
+    },
+    {
+      "title": "Oppenheimer",
+      "type": "movie",
+      "year": 2023,
+      "genres": [
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "moods": [
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 180,
+      "rating": 8.3,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "The father of the atomic bomb reckons with what he built. Three hours that fly by."
+    },
+    {
+      "title": "The Social Network",
+      "type": "movie",
+      "year": 2010,
+      "genres": [
+        "drama",
+        "biography"
+      ],
+      "moods": [
+        "think"
+      ],
+      "tone": "medium",
+      "runtime": 120,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "The founding of Facebook as a betrayal-laced courtroom drama, written at Sorkin speed."
+    },
+    {
+      "title": "Dune: Part Two",
+      "type": "movie",
+      "year": 2024,
+      "genres": [
+        "scifi",
+        "adventure",
+        "action"
+      ],
+      "moods": [
+        "escape",
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 166,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Paul Atreides rises among the Fremen to wage war for Arrakis. Spectacle on the grandest possible scale."
+    },
+    {
+      "title": "Blade Runner 2049",
+      "type": "movie",
+      "year": 2017,
+      "genres": [
+        "scifi",
+        "thriller"
+      ],
+      "moods": [
+        "think",
+        "escape"
+      ],
+      "tone": "heavy",
+      "runtime": 164,
+      "rating": 8,
+      "language": "en",
+      "pace": "slow",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A new blade runner unearths a secret that could break society. Stunning, slow-burn sci-fi noir."
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "type": "movie",
+      "year": 2018,
+      "genres": [
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "moods": [
+        "escape",
+        "laugh",
+        "thrill"
+      ],
+      "tone": "light",
+      "runtime": 117,
+      "rating": 8.4,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Miles Morales meets every other Spider-Person in an animated style that changed the industry."
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "type": "movie",
+      "year": 2023,
+      "genres": [
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "moods": [
+        "escape",
+        "thrill",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 140,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Miles is flung across the multiverse and up against every Spider-society rule. Somehow even better than the first."
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "type": "movie",
+      "year": 2014,
+      "genres": [
+        "action",
+        "comedy",
+        "scifi"
+      ],
+      "moods": [
+        "escape",
+        "laugh"
+      ],
+      "tone": "light",
+      "runtime": 121,
+      "rating": 8,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A gang of lovable space misfits accidentally becomes the galaxy's best hope. Great soundtrack included."
+    },
+    {
+      "title": "Jurassic Park",
+      "type": "movie",
+      "year": 1993,
+      "genres": [
+        "adventure",
+        "scifi",
+        "thriller"
+      ],
+      "moods": [
+        "escape",
+        "thrill"
+      ],
+      "tone": "light",
+      "runtime": 127,
+      "rating": 8.2,
+      "language": "en",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Dinosaurs are brought back to life and immediately demonstrate why that's a problem. Timeless blockbuster magic."
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "type": "movie",
+      "year": 2001,
+      "genres": [
+        "fantasy",
+        "adventure"
+      ],
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "runtime": 178,
+      "rating": 8.9,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Nine companions set out to destroy the One Ring. The all-night fantasy journey begins here."
+    },
+    {
+      "title": "Howl's Moving Castle",
+      "type": "movie",
+      "year": 2004,
+      "genres": [
+        "animation",
+        "fantasy",
+        "romance"
+      ],
+      "moods": [
+        "escape",
+        "cozy",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 119,
+      "rating": 8.2,
+      "language": "ja",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "A cursed young woman finds refuge in a wizard's walking castle. Miyazaki at his most romantic."
+    },
+    {
+      "title": "Spirited Away",
+      "type": "movie",
+      "year": 2001,
+      "genres": [
+        "animation",
+        "fantasy",
+        "adventure"
+      ],
+      "moods": [
+        "escape",
+        "think",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 125,
+      "rating": 8.6,
+      "language": "ja",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A girl must work in a bathhouse for spirits to free her parents. One of the greatest animated films ever made."
+    },
+    {
+      "title": "Anora",
+      "type": "movie",
+      "year": 2024,
+      "genres": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "moods": [
+        "laugh",
+        "feels",
+        "think"
+      ],
+      "tone": "medium",
+      "runtime": 139,
+      "rating": 7.6,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "A Brooklyn dancer impulsively marries a Russian oligarch's son — then his family finds out. Riotous, then heartbreaking."
+    },
+    {
+      "title": "Conclave",
+      "type": "movie",
+      "year": 2024,
+      "genres": [
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 120,
+      "rating": 7.4,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Cardinals gather in secrecy to elect a new pope, and the politicking turns lethal-sharp. A thriller made of whispers."
+    },
+    {
+      "title": "Challengers",
+      "type": "movie",
+      "year": 2024,
+      "genres": [
+        "drama",
+        "romance",
+        "sport"
+      ],
+      "moods": [
+        "thrill",
+        "feels"
+      ],
+      "tone": "medium",
+      "runtime": 131,
+      "rating": 7.2,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "A tennis love triangle plays out across a decade and one electric championship match."
+    },
+    {
+      "title": "A Real Pain",
+      "type": "movie",
+      "year": 2024,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "moods": [
+        "laugh",
+        "feels",
+        "think"
+      ],
+      "tone": "medium",
+      "runtime": 90,
+      "rating": 7.2,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Mismatched cousins tour Poland to honor their grandmother. Funny and sad in the same breath, and mercifully short."
+    },
+    {
+      "title": "Wicked",
+      "type": "movie",
+      "year": 2024,
+      "genres": [
+        "musical",
+        "fantasy",
+        "romance"
+      ],
+      "moods": [
+        "escape",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 160,
+      "rating": 7.5,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "The untold story of the witches of Oz, with showstoppers big enough to defy gravity."
+    },
+    {
+      "title": "Sinners",
+      "type": "movie",
+      "year": 2025,
+      "genres": [
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 137,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Twin brothers return to the Jim Crow South to open a juke joint and find an evil waiting for them. Bold, bloody, and original."
+    },
+    {
+      "title": "F1: The Movie",
+      "type": "movie",
+      "year": 2025,
+      "genres": [
+        "action",
+        "drama",
+        "sport"
+      ],
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "light",
+      "runtime": 155,
+      "rating": 7.8,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A veteran driver returns to Formula 1 to mentor a rookie and chase one last shot. Race scenes that pin you to the couch."
+    },
+    {
+      "title": "Superman",
+      "type": "movie",
+      "year": 2025,
+      "genres": [
+        "action",
+        "adventure",
+        "scifi"
+      ],
+      "moods": [
+        "escape",
+        "laugh"
+      ],
+      "tone": "light",
+      "runtime": 129,
+      "rating": 7.2,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "James Gunn reboots the Man of Steel with heart, humor, and a scene-stealing superdog."
+    },
+    {
+      "title": "Weapons",
+      "type": "movie",
+      "year": 2025,
+      "genres": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "runtime": 128,
+      "rating": 7.6,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Every child from one classroom vanishes at exactly 2:17 a.m. — except one. An unnerving mystery-box horror."
+    },
+    {
+      "title": "One Battle After Another",
+      "type": "movie",
+      "year": 2025,
+      "genres": [
+        "thriller",
+        "drama",
+        "comedy"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "medium",
+      "runtime": 161,
+      "rating": 8,
+      "language": "en",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A washed-up ex-revolutionary races to save his daughter from an old enemy. Paul Thomas Anderson's wildest ride."
+    },
+    {
+      "title": "Casablanca",
+      "type": "movie",
+      "year": 1942,
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "moods": [
+        "feels",
+        "cozy"
+      ],
+      "tone": "medium",
+      "runtime": 102,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Of all the gin joints in all the world. The classic that defines 'they don't make them like this anymore'."
+    },
+    {
+      "title": "When Harry Met Sally",
+      "type": "movie",
+      "year": 1989,
+      "genres": [
+        "romance",
+        "comedy"
+      ],
+      "moods": [
+        "laugh",
+        "feels",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 96,
+      "rating": 7.7,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Can men and women ever just be friends? The rom-com blueprint, still unbeaten."
+    },
+    {
+      "title": "Back to the Future",
+      "type": "movie",
+      "year": 1985,
+      "genres": [
+        "scifi",
+        "comedy",
+        "adventure"
+      ],
+      "moods": [
+        "escape",
+        "laugh",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 116,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Marty McFly accidentally drives a DeLorean into 1955 and nearly erases himself. Perfect from start to finish."
+    },
+    {
+      "title": "The Truman Show",
+      "type": "movie",
+      "year": 1998,
+      "genres": [
+        "drama",
+        "comedy",
+        "scifi"
+      ],
+      "moods": [
+        "think",
+        "feels"
+      ],
+      "tone": "medium",
+      "runtime": 103,
+      "rating": 8.2,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A man slowly realizes his entire life is a television show. Funny, eerie, and quietly profound."
+    },
+    {
+      "title": "Amélie",
+      "type": "movie",
+      "year": 2001,
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "moods": [
+        "cozy",
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "runtime": 122,
+      "rating": 8.3,
+      "language": "fr",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "A shy Parisian waitress secretly engineers joy in strangers' lives. Whimsy perfected."
+    },
+    {
+      "title": "Oldboy",
+      "type": "movie",
+      "year": 2003,
+      "genres": [
+        "thriller",
+        "mystery",
+        "action"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 120,
+      "rating": 8.3,
+      "language": "ko",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A man imprisoned for 15 years without explanation gets five days to find out why. Brutal and unforgettable."
+    },
+    {
+      "title": "The Office (US)",
+      "type": "series",
+      "year": 2005,
+      "genres": [
+        "comedy"
+      ],
+      "moods": [
+        "laugh",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 22,
+      "rating": 9,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Paper company mockumentary with the most rewatchable cast on television. The eternal default for a reason."
+    },
+    {
+      "title": "Parks and Recreation",
+      "type": "series",
+      "year": 2009,
+      "genres": [
+        "comedy"
+      ],
+      "moods": [
+        "laugh",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 22,
+      "rating": 8.6,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Leslie Knope wills a small town's parks department to greatness. Relentlessly optimistic comfort comedy."
+    },
+    {
+      "title": "Brooklyn Nine-Nine",
+      "type": "series",
+      "year": 2013,
+      "genres": [
+        "comedy",
+        "crime"
+      ],
+      "moods": [
+        "laugh",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 22,
+      "rating": 8.4,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A precinct of detective goofballs solves crimes between bits. Noice. Smort. Perfect episode-or-two material."
+    },
+    {
+      "title": "Ted Lasso",
+      "type": "series",
+      "year": 2020,
+      "genres": [
+        "comedy",
+        "drama",
+        "sport"
+      ],
+      "moods": [
+        "laugh",
+        "cozy",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 35,
+      "rating": 8.8,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "An American football coach takes over an English soccer club armed only with relentless kindness. Believe."
+    },
+    {
+      "title": "Schitt's Creek",
+      "type": "series",
+      "year": 2015,
+      "genres": [
+        "comedy"
+      ],
+      "moods": [
+        "laugh",
+        "cozy",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 22,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A bankrupt rich family rebuilds in a small town they once bought as a joke. Starts funny, ends beloved."
+    },
+    {
+      "title": "What We Do in the Shadows",
+      "type": "series",
+      "year": 2019,
+      "genres": [
+        "comedy",
+        "fantasy"
+      ],
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "runtime": 25,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Vampire roommates on Staten Island bicker about chores and world domination. Absurdly quotable."
+    },
+    {
+      "title": "Abbott Elementary",
+      "type": "series",
+      "year": 2021,
+      "genres": [
+        "comedy"
+      ],
+      "moods": [
+        "laugh",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 22,
+      "rating": 8.2,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Underfunded Philly teachers do their best on camera. The warmest network comedy in years."
+    },
+    {
+      "title": "Only Murders in the Building",
+      "type": "series",
+      "year": 2021,
+      "genres": [
+        "comedy",
+        "mystery",
+        "crime"
+      ],
+      "moods": [
+        "laugh",
+        "thrill",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 35,
+      "rating": 8.1,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Three true-crime-obsessed neighbors podcast their way through a murder in their own building. A perfect couples' mystery."
+    },
+    {
+      "title": "The Good Place",
+      "type": "series",
+      "year": 2016,
+      "genres": [
+        "comedy",
+        "fantasy"
+      ],
+      "moods": [
+        "laugh",
+        "think",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 22,
+      "rating": 8.2,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A woman wakes up in the afterlife by clerical error. A sitcom that smuggles in a philosophy degree."
+    },
+    {
+      "title": "New Girl",
+      "type": "series",
+      "year": 2011,
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "moods": [
+        "laugh",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 22,
+      "rating": 7.7,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Jess moves in with three single guys after a breakup. Loft chaos, True American, and slow-burn romance."
+    },
+    {
+      "title": "Friends",
+      "type": "series",
+      "year": 1994,
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "moods": [
+        "laugh",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 22,
+      "rating": 8.9,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Six friends, one coffee shop, ten seasons of comfort. The one you put on when you can't pick anything."
+    },
+    {
+      "title": "Gilmore Girls",
+      "type": "series",
+      "year": 2000,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "moods": [
+        "cozy",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 44,
+      "rating": 8.2,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A fast-talking mother-daughter duo in the coziest small town on television. Autumn in show form."
+    },
+    {
+      "title": "Breaking Bad",
+      "type": "series",
+      "year": 2008,
+      "genres": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 47,
+      "rating": 9.5,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A chemistry teacher with cancer becomes a drug kingpin. Television's most complete transformation."
+    },
+    {
+      "title": "Better Call Saul",
+      "type": "series",
+      "year": 2015,
+      "genres": [
+        "crime",
+        "drama"
+      ],
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "runtime": 46,
+      "rating": 9,
+      "language": "en",
+      "pace": "slow",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "How a charming con-man lawyer became Saul Goodman. A slow burn that pays off everything."
+    },
+    {
+      "title": "Stranger Things",
+      "type": "series",
+      "year": 2016,
+      "genres": [
+        "scifi",
+        "horror",
+        "drama"
+      ],
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "runtime": 51,
+      "rating": 8.6,
+      "language": "en",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Kids on bikes versus a monster from another dimension, soaked in 80s nostalgia. Binge fuel."
+    },
+    {
+      "title": "Dark",
+      "type": "series",
+      "year": 2017,
+      "genres": [
+        "scifi",
+        "mystery",
+        "thriller"
+      ],
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "runtime": 53,
+      "rating": 8.7,
+      "language": "de",
+      "pace": "slow",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A missing child unravels four families across multiple timelines in a German town. Demands and rewards full attention."
+    },
+    {
+      "title": "Money Heist",
+      "type": "series",
+      "year": 2017,
+      "genres": [
+        "crime",
+        "thriller",
+        "action"
+      ],
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "runtime": 50,
+      "rating": 8.2,
+      "language": "es",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A mastermind called the Professor orchestrates the most audacious heist in history. Impossible to watch just one."
+    },
+    {
+      "title": "Severance",
+      "type": "series",
+      "year": 2022,
+      "genres": [
+        "scifi",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 50,
+      "rating": 8.7,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Office workers surgically split their work and home memories — then start asking why. Eerie, gorgeous, addictive."
+    },
+    {
+      "title": "The Last of Us",
+      "type": "series",
+      "year": 2023,
+      "genres": [
+        "drama",
+        "scifi",
+        "horror"
+      ],
+      "moods": [
+        "thrill",
+        "feels"
+      ],
+      "tone": "heavy",
+      "runtime": 55,
+      "rating": 8.7,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A smuggler escorts a girl who may be humanity's cure across a ruined America. Brutal world, enormous heart."
+    },
+    {
+      "title": "True Detective",
+      "type": "series",
+      "year": 2014,
+      "genres": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 55,
+      "rating": 8.9,
+      "language": "en",
+      "pace": "slow",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Two detectives chase a ritual killer across seventeen years of Louisiana rot. Season one is a masterpiece."
+    },
+    {
+      "title": "Mindhunter",
+      "type": "series",
+      "year": 2017,
+      "genres": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "runtime": 50,
+      "rating": 8.6,
+      "language": "en",
+      "pace": "slow",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "FBI agents interview serial killers to invent criminal profiling. Chilling without showing a drop of blood."
+    },
+    {
+      "title": "Slow Horses",
+      "type": "series",
+      "year": 2022,
+      "genres": [
+        "thriller",
+        "drama",
+        "comedy"
+      ],
+      "moods": [
+        "thrill",
+        "laugh",
+        "think"
+      ],
+      "tone": "medium",
+      "runtime": 45,
+      "rating": 8.2,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "MI5's rejects, led by the magnificently disgusting Jackson Lamb, keep stumbling into real conspiracies."
+    },
+    {
+      "title": "The Night Agent",
+      "type": "series",
+      "year": 2023,
+      "genres": [
+        "thriller",
+        "action"
+      ],
+      "moods": [
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 45,
+      "rating": 7.5,
+      "language": "en",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A low-level FBI agent answers a phone that's never supposed to ring. Pure popcorn conspiracy thriller."
+    },
+    {
+      "title": "Fallout",
+      "type": "series",
+      "year": 2024,
+      "genres": [
+        "scifi",
+        "action",
+        "drama"
+      ],
+      "moods": [
+        "escape",
+        "thrill",
+        "laugh"
+      ],
+      "tone": "medium",
+      "runtime": 55,
+      "rating": 8.3,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A vault dweller surfaces into the gleefully savage post-nuclear wasteland. Violent, funny, and stylish."
+    },
+    {
+      "title": "Fleabag",
+      "type": "series",
+      "year": 2016,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "moods": [
+        "laugh",
+        "feels",
+        "think"
+      ],
+      "tone": "medium",
+      "runtime": 27,
+      "rating": 8.7,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A woman narrates her chaotic London life straight to camera. Twelve episodes, two perfect seasons, one Hot Priest."
+    },
+    {
+      "title": "Normal People",
+      "type": "series",
+      "year": 2020,
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "moods": [
+        "feels"
+      ],
+      "tone": "heavy",
+      "runtime": 30,
+      "rating": 8.4,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Marianne and Connell orbit each other from school through university. Intimate, raw, and devastating."
+    },
+    {
+      "title": "One Day",
+      "type": "series",
+      "year": 2024,
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "runtime": 30,
+      "rating": 8,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Emma and Dexter, one day a year, for twenty years. Short episodes that sneak up on you completely."
+    },
+    {
+      "title": "This Is Us",
+      "type": "series",
+      "year": 2016,
+      "genres": [
+        "drama"
+      ],
+      "moods": [
+        "feels",
+        "cozy"
+      ],
+      "tone": "medium",
+      "runtime": 43,
+      "rating": 8.7,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "The Pearson family across three timelines. Engineered to make you cry weekly, and it works."
+    },
+    {
+      "title": "After Life",
+      "type": "series",
+      "year": 2019,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "medium",
+      "runtime": 28,
+      "rating": 8.4,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A widower decides to say whatever he wants to whoever he wants. Bleakly funny, then unexpectedly tender."
+    },
+    {
+      "title": "Black Mirror",
+      "type": "series",
+      "year": 2011,
+      "genres": [
+        "scifi",
+        "drama",
+        "thriller"
+      ],
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "runtime": 60,
+      "rating": 8.7,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Standalone nightmares about technology and human nature. Each episode is its own debate starter."
+    },
+    {
+      "title": "Chernobyl",
+      "type": "series",
+      "year": 2019,
+      "genres": [
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "runtime": 60,
+      "rating": 9.3,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "The 1986 nuclear disaster, hour by hour, lie by lie. Five episodes of staggering television."
+    },
+    {
+      "title": "Succession",
+      "type": "series",
+      "year": 2018,
+      "genres": [
+        "drama",
+        "comedy"
+      ],
+      "moods": [
+        "think",
+        "laugh"
+      ],
+      "tone": "heavy",
+      "runtime": 60,
+      "rating": 8.9,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A media dynasty's children knife-fight for the throne in boardrooms and group chats. Shakespearean and savage."
+    },
+    {
+      "title": "The Crown",
+      "type": "series",
+      "year": 2016,
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "moods": [
+        "think",
+        "cozy"
+      ],
+      "tone": "medium",
+      "runtime": 58,
+      "rating": 8.6,
+      "language": "en",
+      "pace": "slow",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Queen Elizabeth II's reign, decade by lavish decade. Prestige drama you can sink into for weeks."
+    },
+    {
+      "title": "3 Body Problem",
+      "type": "series",
+      "year": 2024,
+      "genres": [
+        "scifi",
+        "mystery",
+        "drama"
+      ],
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 55,
+      "rating": 7.5,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Scientists die mysteriously as humanity receives its first message from the stars. Big-idea sci-fi to argue about."
+    },
+    {
+      "title": "Game of Thrones",
+      "type": "series",
+      "year": 2011,
+      "genres": [
+        "fantasy",
+        "drama",
+        "action"
+      ],
+      "moods": [
+        "escape",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "runtime": 57,
+      "rating": 9.2,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Noble houses scheme and slaughter for the Iron Throne. The biggest shared-watch event ever made."
+    },
+    {
+      "title": "House of the Dragon",
+      "type": "series",
+      "year": 2022,
+      "genres": [
+        "fantasy",
+        "drama",
+        "action"
+      ],
+      "moods": [
+        "escape",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "runtime": 60,
+      "rating": 8.3,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "The Targaryens tear themselves apart two centuries before Daenerys. Dragons, betrayal, repeat."
+    },
+    {
+      "title": "The Mandalorian",
+      "type": "series",
+      "year": 2019,
+      "genres": [
+        "scifi",
+        "action",
+        "adventure"
+      ],
+      "moods": [
+        "escape"
+      ],
+      "tone": "light",
+      "runtime": 40,
+      "rating": 8.6,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A lone bounty hunter protects the galaxy's most adorable asset. Star Wars as a weekly western."
+    },
+    {
+      "title": "Arcane",
+      "type": "series",
+      "year": 2021,
+      "genres": [
+        "animation",
+        "fantasy",
+        "action",
+        "drama"
+      ],
+      "moods": [
+        "escape",
+        "feels",
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 42,
+      "rating": 9,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Two sisters end up on opposite sides of a city tearing itself apart. The most beautiful animation on TV."
+    },
+    {
+      "title": "Avatar: The Last Airbender",
+      "type": "series",
+      "year": 2005,
+      "genres": [
+        "animation",
+        "fantasy",
+        "adventure"
+      ],
+      "moods": [
+        "escape",
+        "cozy",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 23,
+      "rating": 9.3,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A young avatar must master the elements and end a hundred-year war. A perfect story at any age."
+    },
+    {
+      "title": "Shōgun",
+      "type": "series",
+      "year": 2024,
+      "genres": [
+        "drama",
+        "history",
+        "adventure"
+      ],
+      "moods": [
+        "think",
+        "escape",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "runtime": 60,
+      "rating": 8.6,
+      "language": "ja",
+      "pace": "slow",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "An English pilot shipwrecks into the lethal politics of feudal Japan. Sweeping, meticulous, magnificent."
+    },
+    {
+      "title": "The Witcher",
+      "type": "series",
+      "year": 2019,
+      "genres": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "moods": [
+        "escape",
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 60,
+      "rating": 8,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A mutant monster hunter's destiny tangles with a sorceress and a princess. Toss a coin."
+    },
+    {
+      "title": "Bridgerton",
+      "type": "series",
+      "year": 2020,
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "moods": [
+        "feels",
+        "cozy",
+        "escape"
+      ],
+      "tone": "light",
+      "runtime": 60,
+      "rating": 7.4,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Regency London's marriage market, narrated by a mysterious gossip. Lavish, steamy comfort viewing."
+    },
+    {
+      "title": "Nobody Wants This",
+      "type": "series",
+      "year": 2024,
+      "genres": [
+        "romance",
+        "comedy"
+      ],
+      "moods": [
+        "laugh",
+        "feels",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 28,
+      "rating": 7.9,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "An agnostic podcaster falls for a rabbi. A grown-up rom-com that's actually romantic and actually funny."
+    },
+    {
+      "title": "Heartstopper",
+      "type": "series",
+      "year": 2022,
+      "genres": [
+        "romance",
+        "drama",
+        "comedy"
+      ],
+      "moods": [
+        "cozy",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 30,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "desc": "Two British schoolboys fall for each other in the gentlest show on television. Animated leaves included."
+    },
+    {
+      "title": "The Great British Bake Off",
+      "type": "series",
+      "year": 2010,
+      "genres": [
+        "reality"
+      ],
+      "moods": [
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 60,
+      "rating": 8.6,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Kind amateurs bake in a tent while being lovely to each other. The lowest-stakes, highest-comfort show ever."
+    },
+    {
+      "title": "Queer Eye",
+      "type": "series",
+      "year": 2018,
+      "genres": [
+        "reality"
+      ],
+      "moods": [
+        "cozy",
+        "feels"
+      ],
+      "tone": "light",
+      "runtime": 45,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "The Fab Five rebuild someone's confidence, wardrobe, and kitchen in every episode. Guaranteed happy tears."
+    },
+    {
+      "title": "The Penguin",
+      "type": "series",
+      "year": 2024,
+      "genres": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "runtime": 55,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "Oz Cobb claws his way up Gotham's underworld after the flood. A mob epic that happens to be a Batman show."
+    },
+    {
+      "title": "The Day of the Jackal",
+      "type": "series",
+      "year": 2024,
+      "genres": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "moods": [
+        "thrill"
+      ],
+      "tone": "medium",
+      "runtime": 55,
+      "rating": 8,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "An elite assassin and a dogged intelligence officer play continental cat-and-mouse. Slick, propulsive spy craft."
+    },
+    {
+      "title": "Adolescence",
+      "type": "series",
+      "year": 2025,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "moods": [
+        "think",
+        "feels"
+      ],
+      "tone": "heavy",
+      "runtime": 60,
+      "rating": 8.3,
+      "language": "en",
+      "pace": "slow",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A 13-year-old is arrested for murder, each episode in one unbroken shot. Four hours you won't shake off."
+    },
+    {
+      "title": "The Pitt",
+      "type": "series",
+      "year": 2025,
+      "genres": [
+        "drama"
+      ],
+      "moods": [
+        "thrill",
+        "feels"
+      ],
+      "tone": "heavy",
+      "runtime": 45,
+      "rating": 8.9,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "One brutal 15-hour ER shift, told hour by hour in real time. The best medical drama in decades."
+    },
+    {
+      "title": "The Studio",
+      "type": "series",
+      "year": 2025,
+      "genres": [
+        "comedy"
+      ],
+      "moods": [
+        "laugh",
+        "think"
+      ],
+      "tone": "light",
+      "runtime": 30,
+      "rating": 8.1,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A newly minted studio head tries to keep movies alive while Hollywood eats itself. Cameo-stuffed cringe comedy."
+    },
+    {
+      "title": "Paradise",
+      "type": "series",
+      "year": 2025,
+      "genres": [
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "medium",
+      "runtime": 50,
+      "rating": 7.9,
+      "language": "en",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "desc": "A Secret Service agent investigates a murder inside a sealed utopian community. Twists you won't see coming."
+    },
+    {
+      "title": "One Piece",
+      "type": "series",
+      "year": 2023,
+      "genres": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "moods": [
+        "escape",
+        "laugh"
+      ],
+      "tone": "light",
+      "runtime": 55,
+      "rating": 8.3,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "A rubber-limbed dreamer assembles a pirate crew to find the ultimate treasure. Joyful live-action adventure."
+    },
+    {
+      "title": "Modern Family",
+      "type": "series",
+      "year": 2009,
+      "genres": [
+        "comedy"
+      ],
+      "moods": [
+        "laugh",
+        "cozy"
+      ],
+      "tone": "light",
+      "runtime": 22,
+      "rating": 8.5,
+      "language": "en",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
+    },
+    {
+      "title": "The Embroidered Truth",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "runtime": 14,
+      "rating": 7,
+      "language": "other",
+      "desc": "After embroidery house owner Wu Lian ruins countless lives of the female embroiderers in his climb to power, Lin Rulan, one of the embroiderers, survives a tragic betrayal while…",
+      "moods": [
+        "feels",
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Archives: The Nanyang Mystery",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "adventure",
+        "mystery"
+      ],
+      "runtime": 44,
+      "rating": 7,
+      "language": "other",
+      "desc": "In the early years of the Republic of China era, a bizarre murder case known as \"Water Ghost Longing for Home\" occurs at sea in Nanyang. Zhang Haiyan and Zhang Haixia, two staff…",
+      "moods": [
+        "escape",
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "The Evil Lawyer",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "thriller",
+        "legal"
+      ],
+      "runtime": 51,
+      "rating": 7,
+      "language": "other",
+      "desc": "When a principled young lawyer becomes the prime accused in the murder of a high-ranking police officer's son, he is forced to team up with the \"Evil Lawyer,\" exploiting every…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Accident Squad",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "mystery"
+      ],
+      "runtime": 16,
+      "rating": 7,
+      "language": "other",
+      "desc": "A series of bizarre deaths disguised as accidental incidents shocks the city, prompting the Public Security Bureau to establish a specialized Accident Investigation Unit. Led by…",
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Viral Hit",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "action"
+      ],
+      "runtime": 50,
+      "rating": 7,
+      "language": "other",
+      "desc": "When he accidentally goes viral after a brawl, a weak and broke teen realizes livestreaming fights against delinquents could change his life.",
+      "moods": [
+        "feels",
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Surviving Earth",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "nature"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "Surviving Earth will take an incredible journey into prehistory to learn the lessons from past mass extinctions.Adopting cutting-edge digital technology, each episode transports…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Every Year After",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 49,
+      "rating": 7,
+      "language": "en",
+      "desc": "Carley Fortune's Every Year After is a romantic, nostalgic story of first loves and the people and choices that mark us forever.",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Outlast: The Jungle",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "adventure",
+        "nature"
+      ],
+      "runtime": 54,
+      "rating": 7,
+      "language": "en",
+      "desc": "On a remote tropical island, 16 players must survive the elements, outmaneuver rivals and remain part of a team for a chance to win a $1 million prize.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Above Myriads",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "runtime": 25,
+      "rating": 7,
+      "language": "other",
+      "desc": "After transmigrating to the Xianjiang Continent, Yi Feng discovers that he was born without a spiritual root, making cultivation impossible. With no choice but to rely on the…",
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Big Girls Wanted: Escaping Pearadise",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "Pearadise promised safety and a utopia for plus‑size women. The sisterhood turns dark as allegations of assault and coercion spread among the women.",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Most Extreme Humans",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "medical"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "Most Extreme Humans follows people from around the globe living with the world's rarest and most remarkable physical conditions. From a Filipino man whose hands have grown so…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Rolf Harris: Primetime Predator",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 51,
+      "rating": 7,
+      "language": "en",
+      "desc": "A national treasure. A shocking trial. Rolf Harris: Primetime Predator exposes for the first time how celebrity, nostalgia and unchecked power shielded decades of abuse.",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    }
+  ]
+}

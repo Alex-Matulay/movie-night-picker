@@ -1,0 +1,206 @@
+/* ===== Movie Night Matchmaker ===== */
+
+:root {
+  --bg: #12101c;
+  --bg-soft: #1b1828;
+  --card: #221e33;
+  --card-edge: #322c4a;
+  --text: #f3f0ff;
+  --text-dim: #a79fc4;
+  --accent: #ff5c7a;
+  --accent-soft: rgba(255, 92, 122, 0.14);
+  --gold: #ffc857;
+  --teal: #4cd4c0;
+  --radius: 18px;
+  --shadow: 0 18px 50px rgba(0, 0, 0, 0.45);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background:
+    radial-gradient(1200px 600px at 80% -10%, rgba(255, 92, 122, 0.12), transparent 60%),
+    radial-gradient(900px 500px at -10% 30%, rgba(76, 212, 192, 0.08), transparent 55%),
+    var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.6;
+}
+
+h1, h2, h3 { font-family: "Fraunces", Georgia, serif; line-height: 1.2; }
+
+main { flex: 1; width: 100%; max-width: 880px; margin: 0 auto; padding: 0 20px 60px; }
+
+/* ----- Header ----- */
+.site-header { text-align: center; padding: 40px 20px 24px; }
+.logo { font-family: "Fraunces", Georgia, serif; font-size: 1.7rem; font-weight: 700; }
+.logo span { color: var(--accent); }
+.tagline { color: var(--text-dim); font-size: 0.95rem; margin-top: 4px; }
+
+/* ----- Screens ----- */
+.screen { display: none; animation: fadeUp 0.45s ease both; }
+.screen.active { display: block; }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ----- Intro ----- */
+.intro-card {
+  background: var(--card);
+  border: 1px solid var(--card-edge);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 56px 44px;
+  text-align: center;
+  max-width: 640px;
+  margin: 30px auto 0;
+}
+.intro-card h1 { font-size: clamp(1.8rem, 4.5vw, 2.6rem); margin-bottom: 18px; }
+.intro-card p { color: var(--text-dim); max-width: 46ch; margin: 0 auto 30px; }
+.intro-card p strong { color: var(--text); }
+.intro-meta { font-size: 0.85rem; margin-top: 22px !important; color: var(--text-dim); }
+
+/* ----- Buttons ----- */
+.btn {
+  font: inherit; font-weight: 600; cursor: pointer;
+  border: none; border-radius: 999px;
+  padding: 13px 28px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+.btn:active { transform: scale(0.97); }
+.btn-primary {
+  background: linear-gradient(135deg, var(--accent), #ff8a5c);
+  color: #fff;
+  box-shadow: 0 8px 24px rgba(255, 92, 122, 0.35);
+}
+.btn-primary:hover { transform: translateY(-2px); box-shadow: 0 12px 30px rgba(255, 92, 122, 0.45); }
+.btn-primary:disabled { opacity: 0.4; cursor: not-allowed; transform: none; box-shadow: none; }
+.btn-lg { font-size: 1.08rem; padding: 16px 36px; }
+.btn-ghost {
+  background: transparent; color: var(--text-dim);
+  border: 1px solid var(--card-edge);
+}
+.btn-ghost:hover { color: var(--text); border-color: var(--text-dim); }
+
+/* ----- Progress ----- */
+.progress-wrap { display: flex; align-items: center; gap: 14px; margin: 10px 0 30px; }
+.progress-bar { flex: 1; height: 8px; background: var(--bg-soft); border-radius: 999px; overflow: hidden; }
+.progress-fill {
+  height: 100%; width: 0;
+  background: linear-gradient(90deg, var(--accent), var(--gold));
+  border-radius: 999px;
+  transition: width 0.3s ease;
+}
+.progress-label { font-size: 0.85rem; color: var(--text-dim); min-width: 42px; text-align: right; }
+
+/* ----- Quiz steps ----- */
+.step { display: none; }
+.step.active { display: block; animation: fadeUp 0.35s ease both; }
+.step h2 { font-size: clamp(1.4rem, 3.5vw, 1.9rem); margin-bottom: 6px; }
+.step h2 em { color: var(--accent); font-style: italic; }
+.step-hint { color: var(--text-dim); font-size: 0.92rem; margin-bottom: 24px; }
+
+.options { display: grid; gap: 14px; }
+.options-3 { grid-template-columns: repeat(3, 1fr); }
+.options-grid { grid-template-columns: repeat(3, 1fr); }
+
+.opt {
+  font: inherit; color: var(--text); cursor: pointer;
+  background: var(--card);
+  border: 2px solid var(--card-edge);
+  border-radius: var(--radius);
+  padding: 20px 14px;
+  display: flex; flex-direction: column; align-items: center; gap: 6px;
+  text-align: center;
+  transition: border-color 0.15s ease, background 0.15s ease, transform 0.15s ease;
+}
+.opt:hover { border-color: var(--text-dim); transform: translateY(-2px); }
+.opt.selected {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+.opt-emoji { font-size: 1.7rem; }
+.opt small { color: var(--text-dim); font-weight: 400; font-size: 0.8rem; }
+
+.quiz-nav { display: flex; justify-content: space-between; margin-top: 34px; }
+
+/* ----- Results ----- */
+.results-header { text-align: center; margin: 8px 0 26px; }
+.results-header h2 { font-size: clamp(1.5rem, 4vw, 2.1rem); }
+
+.winner {
+  background: var(--card);
+  border: 1px solid var(--card-edge);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  position: relative;
+}
+.winner::before {
+  content: "";
+  display: block; height: 6px;
+  background: linear-gradient(90deg, var(--accent), var(--gold), var(--teal));
+}
+.winner-body { padding: 34px 38px; }
+.title-row { display: flex; align-items: baseline; flex-wrap: wrap; gap: 10px 14px; margin-bottom: 6px; }
+.title-row h3 { font-size: clamp(1.5rem, 4vw, 2rem); }
+.year { color: var(--text-dim); font-size: 1rem; }
+
+.badges { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 16px; }
+.badge {
+  font-size: 0.78rem; font-weight: 600;
+  padding: 4px 12px; border-radius: 999px;
+  background: var(--bg-soft); color: var(--text-dim);
+  border: 1px solid var(--card-edge);
+}
+.badge-type { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
+.badge-rating { background: rgba(255, 200, 87, 0.12); color: var(--gold); border-color: transparent; }
+.badge-runtime { background: rgba(76, 212, 192, 0.1); color: var(--teal); border-color: transparent; }
+
+.winner p.desc { color: var(--text-dim); max-width: 62ch; }
+.match-note {
+  margin-top: 18px; font-size: 0.9rem;
+  color: var(--teal);
+  display: flex; align-items: center; gap: 8px;
+}
+
+.alt-heading { text-align: center; margin: 36px 0 18px; color: var(--text-dim); font-size: 1.1rem; }
+.alt-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.alt-card {
+  background: var(--card);
+  border: 1px solid var(--card-edge);
+  border-radius: var(--radius);
+  padding: 22px 24px;
+}
+.alt-card h4 { font-family: "Fraunces", Georgia, serif; font-size: 1.15rem; margin-bottom: 4px; }
+.alt-card .year { font-size: 0.85rem; }
+.alt-card p.desc { color: var(--text-dim); font-size: 0.88rem; margin-top: 8px; }
+.alt-card .badges { margin: 8px 0 0; }
+
+.results-actions { display: flex; justify-content: center; gap: 14px; margin-top: 36px; flex-wrap: wrap; }
+
+.empty-state {
+  text-align: center; padding: 50px 30px;
+  background: var(--card); border: 1px dashed var(--card-edge); border-radius: var(--radius);
+  color: var(--text-dim);
+}
+
+/* ----- Footer ----- */
+.site-footer { text-align: center; padding: 26px 20px 34px; color: var(--text-dim); font-size: 0.85rem; }
+.footer-fine { font-size: 0.75rem; opacity: 0.7; margin-top: 4px; }
+
+/* ----- Responsive ----- */
+@media (max-width: 640px) {
+  .options-3, .options-grid { grid-template-columns: 1fr 1fr; }
+  .alt-grid { grid-template-columns: 1fr; }
+  .intro-card { padding: 40px 24px; }
+  .winner-body { padding: 26px 22px; }
+}
+@media (max-width: 400px) {
+  .options-3, .options-grid { grid-template-columns: 1fr; }
+}

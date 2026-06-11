@@ -1,0 +1,41 @@
+name: Weekly catalog update
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch new releases and update catalog
+        env:
+          # Optional: add a free TMDB API key as a repo secret to also pull new MOVIES.
+          # Series update via TVMaze with no key. See README for setup.
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node scripts/update-catalog.mjs
+
+      - name: Commit and push if the catalog changed
+        run: |
+          if git diff --quiet data/titles.json; then
+            echo "No catalog changes this week."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/titles.json
+          git commit -m "chore: weekly catalog update ($(date -u +%Y-%m-%d))"
+          git push

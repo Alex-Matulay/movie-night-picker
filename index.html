@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie Night Matchmaker — What should we watch tonight?</title>
+  <meta name="description" content="Can't decide what to watch with your partner? Answer a few quick questions and get a movie or series suggestion you'll both enjoy.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍿</text></svg>">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="logo">🍿 Movie Night <span>Matchmaker</span></div>
+    <p class="tagline">Stop scrolling. Start watching.</p>
+  </header>
+
+  <main>
+
+    <!-- ===== Intro screen ===== -->
+    <section id="screen-intro" class="screen active">
+      <div class="intro-card">
+        <h1>Can't decide what to watch together?</h1>
+        <p>
+          You want a comedy, they want a thriller, and forty minutes later you're both
+          asleep on the menu screen. Answer a few quick questions — for <strong>both</strong>
+          of you — and we'll pick something you'll actually agree on.
+        </p>
+        <button class="btn btn-primary btn-lg" id="btn-start">Find us something to watch</button>
+        <p class="intro-meta" id="catalog-meta"></p>
+      </div>
+    </section>
+
+    <!-- ===== Quiz screen ===== -->
+    <section id="screen-quiz" class="screen">
+      <div class="progress-wrap">
+        <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+        <span class="progress-label" id="progress-label">1 / 6</span>
+      </div>
+
+      <!-- Step 1: format -->
+      <div class="step" data-step="0">
+        <h2>What are you in the mood for?</h2>
+        <p class="step-hint">Pick one.</p>
+        <div class="options options-3" data-name="format" data-single="true">
+          <button class="opt" data-value="movie"><span class="opt-emoji">🎬</span>A movie</button>
+          <button class="opt" data-value="series"><span class="opt-emoji">📺</span>A series</button>
+          <button class="opt" data-value="any"><span class="opt-emoji">🤷</span>Surprise us</button>
+        </div>
+      </div>
+
+      <!-- Step 2: time -->
+      <div class="step" data-step="1">
+        <h2>How much time do you have tonight?</h2>
+        <p class="step-hint">Be honest — someone always falls asleep.</p>
+        <div class="options options-3" data-name="time" data-single="true">
+          <button class="opt" data-value="short"><span class="opt-emoji">⏱️</span>Under an hour<small>An episode or two</small></button>
+          <button class="opt" data-value="medium"><span class="opt-emoji">🕘</span>About 2 hours<small>A full movie</small></button>
+          <button class="opt" data-value="long"><span class="opt-emoji">🌙</span>All night<small>We're committed</small></button>
+        </div>
+      </div>
+
+      <!-- Step 3: partner 1 mood -->
+      <div class="step" data-step="2">
+        <h2>Partner 1 — what's your mood?</h2>
+        <p class="step-hint">Pick up to two.</p>
+        <div class="options options-grid" data-name="mood1" data-max="2">
+          <button class="opt" data-value="laugh"><span class="opt-emoji">😂</span>Make me laugh</button>
+          <button class="opt" data-value="thrill"><span class="opt-emoji">😱</span>Keep me on edge</button>
+          <button class="opt" data-value="feels"><span class="opt-emoji">🥹</span>Hit me in the feels</button>
+          <button class="opt" data-value="think"><span class="opt-emoji">🧠</span>Make me think</button>
+          <button class="opt" data-value="escape"><span class="opt-emoji">🚀</span>Take me somewhere else</button>
+          <button class="opt" data-value="cozy"><span class="opt-emoji">🛋️</span>Something cozy</button>
+        </div>
+      </div>
+
+      <!-- Step 4: partner 2 mood -->
+      <div class="step" data-step="3">
+        <h2>Partner 2 — what's <em>your</em> mood?</h2>
+        <p class="step-hint">No peeking at their answer. Pick up to two.</p>
+        <div class="options options-grid" data-name="mood2" data-max="2">
+          <button class="opt" data-value="laugh"><span class="opt-emoji">😂</span>Make me laugh</button>
+          <button class="opt" data-value="thrill"><span class="opt-emoji">😱</span>Keep me on edge</button>
+          <button class="opt" data-value="feels"><span class="opt-emoji">🥹</span>Hit me in the feels</button>
+          <button class="opt" data-value="think"><span class="opt-emoji">🧠</span>Make me think</button>
+          <button class="opt" data-value="escape"><span class="opt-emoji">🚀</span>Take me somewhere else</button>
+          <button class="opt" data-value="cozy"><span class="opt-emoji">🛋️</span>Something cozy</button>
+        </div>
+      </div>
+
+      <!-- Step 5: era -->
+      <div class="step" data-step="4">
+        <h2>New release or proven classic?</h2>
+        <p class="step-hint">Pick one.</p>
+        <div class="options options-3" data-name="era" data-single="true">
+          <button class="opt" data-value="new"><span class="opt-emoji">✨</span>Something recent<small>Last couple of years</small></button>
+          <button class="opt" data-value="classic"><span class="opt-emoji">🏆</span>A classic<small>Stood the test of time</small></button>
+          <button class="opt" data-value="any"><span class="opt-emoji">🎲</span>Don't care<small>Good is good</small></button>
+        </div>
+      </div>
+
+      <!-- Step 6: dealbreakers -->
+      <div class="step" data-step="5">
+        <h2>Any deal-breakers?</h2>
+        <p class="step-hint">We'll avoid these. Pick any, or none.</p>
+        <div class="options options-grid" data-name="avoid" data-max="6">
+          <button class="opt" data-value="horror"><span class="opt-emoji">🙅</span>No horror</button>
+          <button class="opt" data-value="heavy"><span class="opt-emoji">⛅</span>Nothing too heavy</button>
+          <button class="opt" data-value="slow"><span class="opt-emoji">🐢</span>Nothing slow-paced</button>
+          <button class="opt" data-value="subtitles"><span class="opt-emoji">💬</span>No subtitles tonight</button>
+          <button class="opt" data-value="romance"><span class="opt-emoji">💔</span>No romance</button>
+          <button class="opt" data-value="violence"><span class="opt-emoji">🕊️</span>Nothing too violent</button>
+        </div>
+      </div>
+
+      <div class="quiz-nav">
+        <button class="btn btn-ghost" id="btn-back">← Back</button>
+        <button class="btn btn-primary" id="btn-next">Next →</button>
+      </div>
+    </section>
+
+    <!-- ===== Results screen ===== -->
+    <section id="screen-results" class="screen">
+      <div class="results-header">
+        <h2 id="results-title">Tonight, you two should watch…</h2>
+      </div>
+
+      <div id="winner-card"></div>
+
+      <h3 class="alt-heading">Or, if that's a no…</h3>
+      <div class="alt-grid" id="alt-cards"></div>
+
+      <div class="results-actions">
+        <button class="btn btn-primary" id="btn-reshuffle">🎲 Show us different picks</button>
+        <button class="btn btn-ghost" id="btn-restart">↩️ Start over</button>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Catalog refreshed weekly with new releases · <span id="footer-updated"></span></p>
+    <p class="footer-fine">Made for indecisive couples everywhere. Streaming availability varies by region.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
