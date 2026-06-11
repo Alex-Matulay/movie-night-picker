@@ -2936,6 +2936,265 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-06-11"
+    },
+    {
+      "title": "The First Jasmine",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 46,
+      "rating": 7,
+      "language": "other",
+      "desc": "Ye Li, the eldest daughter of the Ye family, is married into the dilapidated Prince Ding's manor to wed the wheelchair-bound Prince Mo Xiuyao. On the very same day, Prince Li, Mo…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Secret Diary",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 11,
+      "rating": 7,
+      "language": "other",
+      "desc": "This drama follows Yin Zixi, a strong-willed and successful career woman who rediscovers a diary she lost many years ago, triggering memories that had been buried for over a…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Norges vei tilbake",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "other",
+      "desc": "After 26 years of tournament drought, Norway's 2026 World Cup hopes were next to nil. But what followed rekindled belief, as told in this documentary.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Rise Again",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 12,
+      "rating": 7,
+      "language": "other",
+      "desc": "After three hundred years of waiting, Immortal King Su Wubing and Holy Maiden Lin Ningxue held their celestial wedding, only to be stopped by the Heavenly Dao. To protect Wubing,…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Hamza Loves Animals: Africa",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "children",
+        "nature"
+      ],
+      "runtime": 11,
+      "rating": 7,
+      "language": "en",
+      "desc": "Join Ranger Hamza on an epic African adventure! Visiting animal sanctuaries and exploring the wild, he discovers incredible animals, each with their very own story to tell.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Ground Up",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "sports"
+      ],
+      "runtime": 28,
+      "rating": 7,
+      "language": "en",
+      "desc": "Set in Tasmania, the series follows AFL administrator Hugh Shen, dispatched from Melbourne to establish the island's first-ever AFL team. But there's a catch: the locals must…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Tiger Island",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "nature"
+      ],
+      "runtime": 57,
+      "rating": 7,
+      "language": "en",
+      "desc": "In Nepal, a team of film-makers and big cat experts begin an expedition following two tiger mothers and their cubs, on an extraordinary island full of potential dangers.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "33 días",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "runtime": 39,
+      "rating": 7,
+      "language": "other",
+      "desc": "The escape of two dangerous criminals from the Lleida Penitentiary Center in 2001 triggered a 33-day police manhunt, marked by violence, sacrifices and loyalty.",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Wonder Wall",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 46,
+      "rating": 7,
+      "language": "other",
+      "desc": "A terribly unlucky young couple stumbles into a massive villa by chance and accidentally discovers a huge sum of hidden fortune. But when trouble hits, they can no longer tell —…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "The Vanishing of Debbie Griggs",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 44,
+      "rating": 7,
+      "language": "en",
+      "desc": "Chronicles the investigation into the 1999 disappearance of 34-year-old Debbie Griggs, a pregnant mother of three who vanished from her home in Deal, Kent - a case spanning more…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "100 Cooks",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "food"
+      ],
+      "runtime": 71,
+      "rating": 7,
+      "language": "en",
+      "desc": "It is the biggest home cook competition of all time. Actor, television host and former pro football player Terry Crews hosts as 100 of America's elite home cooks enter the stadium…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
+    },
+    {
+      "title": "Best of the World with Antoni Porowski",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "travel"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "National Geographic announced today the greenlight of Best of the World with Antoni Porowski, a vibrant new travel docuseries set to premiere in 2026 on National Geographic,…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-11"
     }
   ]
 }
