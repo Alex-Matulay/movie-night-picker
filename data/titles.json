@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11",
+  "updated": "2026-06-15",
   "source": "curated",
   "titles": [
     {
@@ -3195,6 +3195,250 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-06-11"
+    },
+    {
+      "title": "Love Has Fireworks",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Qian Fei, a junior investment banking employee, had her life carefully planned out and believed she was on the path to happiness. But her world is turned upside down when her…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-15"
+    },
+    {
+      "title": "Little Singles",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "Little Singles features a tight-knit group of friends from the little person community as they come together for an unforgettable vacation under one roof. For years, these friends…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-15"
+    },
+    {
+      "title": "Call For Dr. Jiang",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "medical"
+      ],
+      "runtime": 11,
+      "rating": 7,
+      "language": "other",
+      "desc": "Jiang Tian Cai, a gifted but aloof maxillofacial surgeon, suffers a major setback in his life and starts anew at a dental hospital in a small coastal town. In the confines of his…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-15"
+    },
+    {
+      "title": "Малахит",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "runtime": 43,
+      "rating": 7,
+      "language": "other",
+      "desc": "In the village of Krasny Kamen, three seventh graders — Roma, Asya and Gordey ― are spending their summer holidays carefree. On one of his trips to the quarry, Roma finds a…",
+      "moods": [
+        "escape",
+        "cozy"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-15"
+    },
+    {
+      "title": "Nurse the Dead",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy",
+        "fantasy"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "Nurse the Dead follows Noa Reyes, a driven Filipina nurse supervisor whose ability to see ghosts — referred to as her \"third eye\" — makes her the go-to handler for a hospital ward…",
+      "moods": [
+        "feels",
+        "laugh",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-15"
+    },
+    {
+      "title": "Legacy of Heroes",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "war",
+        "history"
+      ],
+      "runtime": 55,
+      "rating": 7,
+      "language": "other",
+      "desc": "Armenian soldiers' heroics during Artsakh wars through personal stories, battlefield bravery, and human experiences, highlighting their sacrifices, love, struggles, and how their…",
+      "moods": [
+        "feels",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-15"
+    },
+    {
+      "title": "The Polygamist",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 27,
+      "rating": 7,
+      "language": "other",
+      "desc": "A self-made CEO, Jonasi Gomora builds an empire and a complicated personal life that begins to collapse under the weight of his choices, as the wives and mistresses in his life…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-15"
+    },
+    {
+      "title": "Proud",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 39,
+      "rating": 7,
+      "language": "other",
+      "desc": "The story of Filip, a young and irresponsible gay man who lives with the conviction that the world belongs to him and that this will never change. He is brazen, unpunished,…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-15"
+    },
+    {
+      "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 46,
+      "rating": 7,
+      "language": "other",
+      "desc": "At the peak of his career, top celebrity Feng Qinglang escapes to a remote tea mountain, seeking a brief respite from the spotlight. Instead, he meets Xu Changyang, a…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-15"
+    },
+    {
+      "title": "Fix the Error!",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 10,
+      "rating": 7,
+      "language": "other",
+      "desc": "Ji Han, the grim reaper who manages death, receives a list of names and descends to the human world again today. School, unfamiliar scenery, and a strange self. But the task…",
+      "moods": [
+        "escape",
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-15"
+    },
+    {
+      "title": "Jim Henson's Monster Dance",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "children"
+      ],
+      "runtime": 4,
+      "rating": 7,
+      "language": "en",
+      "desc": "Calling all Monsters! Do YOU love to DANCE? Come join the fuzzy, friendly, funky fun with Toots, Teeny and Razzle Dazzle, as they get down.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-15"
     }
   ]
 }
