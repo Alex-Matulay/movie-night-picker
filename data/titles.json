@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15",
+  "updated": "2026-06-22",
   "source": "curated",
   "titles": [
     {
@@ -3439,6 +3439,270 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-06-15"
+    },
+    {
+      "title": "Harlan Coben's I Will Find You",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "runtime": 41,
+      "rating": 7.1,
+      "language": "en",
+      "desc": "Harlan Coben's I Will Find You follows an innocent father serving life in prison for murdering his own son, who receives evidence that his child may actually still be alive — and…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "UFC Rivals",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 61,
+      "rating": 7,
+      "language": "en",
+      "desc": "UFC Rivals is an electrifying deep dive into the most iconic feuds in UFC history. Blending gripping archival footage, exclusive interviews, and a dynamic roundtable, the series…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "Angels and Guards",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 17,
+      "rating": 7,
+      "language": "other",
+      "desc": "Bounty hunter Shen Bingfan joins the Northern Bureau of the Jinyiwei (Imperial Guard), the emperor's elite secret guard, to uncover the truth behind her father's wrongful case.…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "Endless Love",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 13,
+      "rating": 7,
+      "language": "other",
+      "desc": "This is the blood-soaked tale across three lifetimes of Mu Ruyi, Princess of Xiling, and Ling Xiao, Prince of Dongqing. She saved his life, but he returned with vengeance. Their…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "The Legend of Rosy Clouds",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 42,
+      "rating": 7,
+      "language": "other",
+      "desc": "In the legendary Nine Cities, Fan Yun, a poor young lady from a distinguished family, and Qi Zheng, the lord of Bai Qie Hei City, progress from testing each other to mutual trust.…",
+      "moods": [
+        "laugh",
+        "escape",
+        "feels"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "Várzea: Onde Nasce o Futebol",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 38,
+      "rating": 7,
+      "language": "other",
+      "desc": "Brazil lives, breathes and exports várzea. This series delves into the stories behind the beautiful game — one with the power to change lives.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "Stand BI Me",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "The show focuses on contestants navigating attraction regardless of gender, promising high-stakes drama, secret voting, and strategic romance.",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "Oasis",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "runtime": 43,
+      "rating": 7,
+      "language": "other",
+      "desc": "Oasis is the most luxurious holiday resort in the country — a paradise reserved for the wealthiest families, featuring private beaches, VIP facilities, and impenetrable security.…",
+      "moods": [
+        "feels",
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "Ultras: Passion and Death",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Through three crimes that forever changed a nation and football fandom, this docuseries explores the violent \"ultras\" movement in Spain.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "Swamp Patrol",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 31,
+      "rating": 7,
+      "language": "en",
+      "desc": "SWAMP PATROL pulls viewers into the unpredictable world of law enforcement operating in America's most unforgiving swamps. From the tangled bayous of Louisiana to the coastal…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "Never-Ending Summer",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 47,
+      "rating": 7,
+      "language": "other",
+      "desc": "Everyone at Yangming Middle School knew that Zhou Wan was introverted and silent, while Lu Xi Xiao was unruly. The two couldn't be more different. No one expected that one day,…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-22"
+    },
+    {
+      "title": "The Season",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 48,
+      "rating": 4.2,
+      "language": "en",
+      "desc": "A striving American is thrown headfirst into the world of superyachts, sun, and scandal over the Hong Kong boating season in this soapy delicious revenge thriller about the…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-22"
     }
   ]
 }
