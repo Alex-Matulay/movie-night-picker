@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-29",
   "source": "curated",
   "titles": [
     {
@@ -3703,6 +3703,276 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-06-22"
+    },
+    {
+      "title": "The Killings at Parrish Station",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "runtime": 48,
+      "rating": 7.3,
+      "language": "en",
+      "desc": "It's 1987, and Detective Georgia Cooke is called in to investigate the massacre of four scientists who have been brutally murdered in inexplicable ways, with a lone survivor the…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "Adventure Time: Side Quests",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "adventure",
+        "fantasy"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "The series will serve as a companion to the original Adventure Time, featuring brand-new adventures for Finn and Jake that aim to \"capture the spirit\" of the show's earlier years.…",
+      "moods": [
+        "laugh",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "The Eternal Fragrance",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 46,
+      "rating": 7,
+      "language": "other",
+      "desc": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters.…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "The Prosecutor's Office's Proposal",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance",
+        "mystery"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "From the director of ‘Secret Relationships', follows the romance between an investigator burdened by the stigma of \"being a murderer's son\" and a prosecutor.",
+      "moods": [
+        "feels",
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "Riding the Wind",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 13,
+      "rating": 7,
+      "language": "other",
+      "desc": "In an era of booming national development, Xiao Yifan starts as a greenhorn in the corporate world. Through relentless effort and a sharp market instinct, he defeats his rivals…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "Notes from the Last Row",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "thriller"
+      ],
+      "runtime": 62,
+      "rating": 7,
+      "language": "other",
+      "desc": "A failed writer-turned-professor finds rare talent in a student's writing — and grows obsessed with his draft as their private lessons go off course.",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "Would You Rather: Decide to Survive",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "Would You Rather be invisible or be able to fly? Fight one giant duck or 1000 tiny ducks? Eat a man-sized bean or a bean-sized man? This comedy game show will see two teams of…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "Deep In",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 40,
+      "rating": 7,
+      "language": "other",
+      "desc": "Fresh off winning Best Actor, Chen Xin finds himself cast alongside ambitious newcomer Zhang Zhun in a daring LGBTQ+ film. On screen, they portray psychiatrist Fang Chi and his…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "Unfold",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance",
+        "thriller"
+      ],
+      "runtime": 18,
+      "rating": 7,
+      "language": "other",
+      "desc": "Bai Che, a death-scene cleanup worker, discovers his adoptive father's mysterious death at a job site. Black-market organ trade messages soon appear, and a break-in at his home…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "Life, Larry and the Pursuit of Unhappiness",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 34,
+      "rating": 7,
+      "language": "en",
+      "desc": "President and Mrs. Obama wanted to honor America's 250th anniversary and celebrate the unique history of our nation on this special occasion....But then Larry David called.",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "The Imperial Master",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 14,
+      "rating": 7,
+      "language": "other",
+      "desc": "A top science student, Luo Chang'an, unexpectedly time-travels and somehow becomes the magistrate of Jiuzhang County — a place famously known as \"Widow County.\" His only wish is…",
+      "moods": [
+        "feels",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-06-29"
+    },
+    {
+      "title": "The Found Family",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "horror"
+      ],
+      "runtime": 16,
+      "rating": 7,
+      "language": "other",
+      "desc": "Lin You, a freshly released juvenile offender with an unusually strong fate, stumbles into the \"Daji Agency\" and lands a job as a haunted-house tester. Teaming up with Xu Liuliu,…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-06-29"
     }
   ]
 }
