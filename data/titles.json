@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29",
+  "updated": "2026-07-06",
   "source": "curated",
   "titles": [
     {
@@ -3973,6 +3973,276 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-06-29"
+    },
+    {
+      "title": "Summer Serendipity",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 11,
+      "rating": 7,
+      "language": "other",
+      "desc": "Su Wan, a university student majoring in animal psychology, has loved animals since childhood and cannot bear to see them harmed. One day, she learns that a group of dogs has been…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "Cases Between Us",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy"
+      ],
+      "runtime": 19,
+      "rating": 7,
+      "language": "other",
+      "desc": "Two young men, Zhao Shaoshang and Yuan Hong, come from vastly different educational and family backgrounds. Through one case after another, they learn from each other and grow…",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "Road to Success",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "sports"
+      ],
+      "runtime": 42,
+      "rating": 7,
+      "language": "other",
+      "desc": "Adapted from the novel \"Narrow Path\" by Chang Er on Jinjiang Literature City, it tells the story of Lin Wanxing, a psychology doctor, who returns to his hometown, Hongjing, to…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "Auspicious Nobles",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 15,
+      "rating": 7,
+      "language": "other",
+      "desc": "A modern financial prodigy, Li Qingqing, is suddenly transported back to ancient times, where she becomes the wife of General Pan Yang. Hoping for a quiet and peaceful life, she…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "Crowned in a Hundred Days",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "After a tragedy destroys his life, a humble diner owner swallows the soul of the true king to gain extraordinary powers. With exactly one hundred days until his own soul is…",
+      "moods": [
+        "escape",
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "Newlywed Addiction",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Qiao Yuan is forced into marriage with Fu Tingzhou after her older sister runs away from the wedding. To the outside world, this looks like a sudden replacement marriage, but for…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "Muthassi",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "horror"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "A mother, torn between love and destruction, faces her son's demonic change from a cursed lineage.",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "Bittersweet Love",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Born into poverty in a rural village, Lu Xiaofan unexpectedly enters an elite family in the capital as the live-in son-in-law of a powerful official's household. He once believed…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "Operation Dark Gold",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "runtime": 13,
+      "rating": 7,
+      "language": "other",
+      "desc": "After failing to join the police force, police academy student Yan Mingyu is expelled for participating in underground boxing matches. Under the direction of Economic Crime…",
+      "moods": [
+        "feels",
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "Unsettled Case",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime",
+        "mystery"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "One cold case per unit, two units per season. The debut season of Unsettled Case focuses on two units: \"The Jewelry Store Serial Robbery\" and \"The Bianji Hotel Robbery.\" Within a…",
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "I Became a Legend after My 10 Year-Long Last Stand.",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "runtime": 24,
+      "rating": 7,
+      "language": "other",
+      "desc": "With no other options, Luck makes the choice to hold the line against the unending demonic hordes alone, to make sure his comrades can escape with their lives. However, through a…",
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-06"
+    },
+    {
+      "title": "Super Subbu",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy"
+      ],
+      "runtime": 39,
+      "rating": 7,
+      "language": "other",
+      "desc": "When unlucky Subbu is assigned to teach sex ed in a hostile village, he must find a way to succeed while avoiding his conservative father's wrath.",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-06"
     }
   ]
 }
