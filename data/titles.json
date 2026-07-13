@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06",
+  "updated": "2026-07-13",
   "source": "curated",
   "titles": [
     {
@@ -4243,6 +4243,279 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-07-06"
+    },
+    {
+      "title": "Little House on the Prairie",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "family",
+        "western"
+      ],
+      "runtime": 49,
+      "rating": 7.6,
+      "language": "en",
+      "desc": "A transformed adaptation of Wilder's semi-autobiographical books, the new Little House on the Prairie is part family drama, part epic survival tale, and part origin story of the…",
+      "moods": [
+        "feels",
+        "cozy",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "Mu Ye Gui Shi Zhi Ban Shan Shu",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "adventure",
+        "mystery"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Mu Ye Gui Shi Zhi Ban Shan Shu is an action-adventure series that follows the \"Ban Shan\" clan—a legendary group of tomb raiders who utilize Taoist arts. Striking out into…",
+      "moods": [
+        "thrill",
+        "escape",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "Evolution",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "nature",
+        "history"
+      ],
+      "runtime": 58,
+      "rating": 7,
+      "language": "en",
+      "desc": "From a single spark of life, through millions of generations, animals have become diverse, weird and beautiful. Chris Packham tells the incredible story in astonishing new detail.",
+      "moods": [
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "Murder 101",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "In a quiet Tennessee town, a high school sociology class takes on a mystery that has lingered for decades. Led by teacher Alex Campbell, the students of Elizabethton High School…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "Hot Ones: Extra Heat",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "food"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "Hot Ones: Extra Heat challenges celebrity guests to answer spicy questions while eating even spicier wings.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "Pitmasters",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "food"
+      ],
+      "runtime": 90,
+      "rating": 7,
+      "language": "en",
+      "desc": "Pitmasters is a raw, relentless, real-world BBQ competition unlike anything ever attempted on Food Network. A non-stop week-long battle set deep in the wilderness where teams of…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "The Westies",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "runtime": 51,
+      "rating": 7,
+      "language": "en",
+      "desc": "The Westies takes place during the construction of the Jacob Javitz Convention Center on the Westies' home turf in Hell's Kitchen, which promises a financial windfall. Despite…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "She Is Still Cute Today",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "runtime": 10,
+      "rating": 7,
+      "language": "other",
+      "desc": "\"I'm into someone.\" Cang Shu, a straight-A student who always indulges in learning and has no passion for social contact, actually announces in public that she likes the poor…",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "Spread Like Wildfire",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Years after a painful mistake tears them apart, a ruthless but deeply loyal lawyer and a determined female reporter are forced to work together. Bound by shared secrets and…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "Key to the Phoenix Heart",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "Паша",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy"
+      ],
+      "runtime": 33,
+      "rating": 7,
+      "language": "other",
+      "desc": "Pasha Belov is a native Muscovite, studied at Gnesinka, and he is also half Uzbek with pronounced Oriental features. But here's the problem — Pasha doesn't know anything about his…",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-13"
+    },
+    {
+      "title": "Lavender",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance",
+        "thriller"
+      ],
+      "runtime": 31,
+      "rating": 7,
+      "language": "other",
+      "desc": "A story about love, identity, and the relationships that have no name — and no less meaning for it. Appu and Mohak have built a life together in Mumbai. When circumstances force a…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-13"
     }
   ]
 }
