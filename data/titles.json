@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13",
+  "updated": "2026-07-20",
   "source": "curated",
   "titles": [
     {
@@ -4516,6 +4516,280 @@
       "romanceCentral": true,
       "source": "auto",
       "added": "2026-07-13"
+    },
+    {
+      "title": "Ride or Die",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "action",
+        "adventure"
+      ],
+      "runtime": 52,
+      "rating": 7.5,
+      "language": "en",
+      "desc": "Ride or Die follows best friends Debbie Claybourne and Judith Burton who thought they knew everything about each other, except Judith turns out to be an international assassin.…",
+      "moods": [
+        "laugh",
+        "thrill",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "Treasure & Dirt",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime",
+        "thriller"
+      ],
+      "runtime": 57,
+      "rating": 7,
+      "language": "en",
+      "desc": "In a dying opal town in the middle of the desert, law and order are little more than myths. Thieves raid the mines, zealots preach salvation to the lost, and billionaire magnates…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "Overdo",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 39,
+      "rating": 7,
+      "language": "other",
+      "desc": "\"Overdo\" tells the story of Murong Qingyi, the youngest son of a warlord family in Republican-era Shanghai, who suffers abuse from his adoptive father after being switched at…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "Maine Cabin Masters: All Inn",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "diy"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "The Maine Cabin Masters take on their most ambitious build yet: transforming a rundown B&amp;B into a stunning 12-acre lakeside inn. Along the way, Chase and his wife, Sarah,…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "Zeri Feisheng",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "In the chaotic times, demons and monsters roam freely, and treacherous officials are in power. With the invasion of the Netherworld, both humans and Netherworld beings wreak havoc…",
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "Ann Droid",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 28,
+      "rating": 7,
+      "language": "en",
+      "desc": "It's Sue's worst nightmare - an overly attentive, socially inept, second-hand robot carer. But maybe this droid has its uses...",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "The East Palace",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "horror",
+        "mystery"
+      ],
+      "runtime": 50,
+      "rating": 7,
+      "language": "other",
+      "desc": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
+      "moods": [
+        "feels",
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "Hanzaisha",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Following the sole survivor of a random mass stabbing who is given a mysterious 10-day ultimatum to live, three unlikely allies—a determined detective, an investigative reporter,…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "Super Market",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 27,
+      "rating": 7,
+      "language": "other",
+      "desc": "Super Market is the new Italian Prime Original comedy series written and directed by the collective Il Terzo Segreto di Satira on the tragicomic events of Eury, a chaotic…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "Фейк",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "runtime": 46,
+      "rating": 7,
+      "language": "other",
+      "desc": "Lyceum teacher Rita begins to be stalked online. The stalker hits her where it hurts: work, students, family, and self-confidence. Rita tries to understand: who is this person and…",
+      "moods": [
+        "feels",
+        "thrill",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "Холод",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "thriller"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Zhenya is unjustly imprisoned for a car accident on Kutuzovsky Prospekt, in which her husband and 6-year-old daughter are killed. The real culprits of the accident are rich kids…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
+    },
+    {
+      "title": "Родина чемпионов: Ислам Махачев",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 23,
+      "rating": 7,
+      "language": "other",
+      "desc": "Mixed martial artist Islam Makhachev spends several days in his native Dagestan, sharing his everyday life outside of major tournaments: night fishing, a farm visit, a game of…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-20"
     }
   ]
 }
