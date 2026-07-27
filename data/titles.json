@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20",
+  "updated": "2026-07-27",
   "source": "curated",
   "titles": [
     {
@@ -4790,6 +4790,269 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-07-20"
+    },
+    {
+      "title": "Pompeii: Out of Time with Tom Hiddleston",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "history"
+      ],
+      "runtime": 60,
+      "rating": 7.2,
+      "language": "en",
+      "desc": "A historical exploration about the eruption of Vesuvius in 79 A.D. and the preserved Roman city it left behind.Tom Hiddleston asks: Could anyone survive Pompeii's final day?…",
+      "moods": [
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "The Rules of Vacation",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "The Rules of Vacation follows a newly unemployed woman who takes a summer vacation at her late grandmother's villa, only to cross paths with a mysterious caretaker.",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "Furious",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "runtime": 53,
+      "rating": 7,
+      "language": "en",
+      "desc": "Furious follows an FBI agent, Alice Black, on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "Game Day Murders",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "Through firsthand accounts from families, teammates, and those closest to the cases, each episode of Game Day Murders paints a vivid cultural portrait of the inner workings and…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "Force of Nature",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "nature"
+      ],
+      "runtime": 47,
+      "rating": 7,
+      "language": "en",
+      "desc": "Force of Nature is a groundbreaking series filmed over three years, revealing how nature is fighting back against today's extreme weather. Witness the scale and ferocity of…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "The Rapture",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "thriller"
+      ],
+      "runtime": 57,
+      "rating": 7,
+      "language": "en",
+      "desc": "The Rapture is a high-stakes thriller which crackles with danger. Set in a heatwave, with protestors on the streets, forensic psychologist Gabs Fox starts a new job at a…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "Your Third",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Sam has been secretly in love with someone for years. Just when he finally musters the courage to confess and start a relationship, his older brother, Song, swoops in and steals…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "Taakstraf",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Five very different teenagers are sentenced to community service. Under the supervision of a clumsy supervisor, every assignment leads to chaos, conflict and romance, while an…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "Locker Diaries: Descendants",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "fantasy"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "Glimpse the drama happening in the school hallways of Auradon Prep and discover the secret adventures that unfold.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "Похищение",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "thriller",
+        "mystery"
+      ],
+      "runtime": 49,
+      "rating": 7,
+      "language": "other",
+      "desc": "MVD Captain Aglaia Mezentseva and investigator Vsevolod Kosinsky, one of the best specialists in child abduction cases, are unraveling the case of the missing 5-year-old grandson…",
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "Yagami Eiko: Ueno Chuo Police Station Organized Crime Countermeasures Division",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Set in the culturally diverse Ueno district of Tokyo, the story follows Eiko Yagami, a beautiful and dangerous detective in the Organized Crime Countermeasures Division…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-07-27"
+    },
+    {
+      "title": "Spring Over Phoenix Pond",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 12,
+      "rating": 7,
+      "language": "other",
+      "desc": "Qi Yuan, the butcher's daughter, was the true heiress of the Marquis Residence who was switched at birth. The fake heiress framed and humiliated Qi Yuan to protect herself. Forced…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-07-27"
     }
   ]
 }
