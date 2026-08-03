@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-08-03",
   "source": "curated",
   "titles": [
     {
@@ -5053,6 +5053,272 @@
       "romanceCentral": true,
       "source": "auto",
       "added": "2026-07-27"
+    },
+    {
+      "title": "Night Tales",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 38,
+      "rating": 7,
+      "language": "other",
+      "desc": "Ye Xiaowei, a winemaker from a humble background, suffers a double betrayal, from her lover Cheng An and her mentor Lin Wanmei. Rising from the ashes of hatred, she assumes the…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "Genius Girlfriend",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 44,
+      "rating": 7,
+      "language": "other",
+      "desc": "The genius Lin Zhixia is straightforward and reserved, never ever having a close friend. Admitted to Provincial No. 1 Middle School, she meets the sunny top student Jiang Yubai in…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "Naked and Afraid: Shipwrecked",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "adventure",
+        "nature"
+      ],
+      "runtime": 120,
+      "rating": 7,
+      "language": "en",
+      "desc": "Under the impression that they are entering a standard 35-day group challenge at dawn, the survivalists instead begin their insertion adrift at sea overnight. With emergency…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "Decades in Sports",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "history",
+        "sports"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "Decades in Sports explores the cultural and political milestones that transformed sports and helped shape America. Across six episodes, it examines the defining moments, athletes,…",
+      "moods": [
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "L.O.L. Surprise! The Next Headliner",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "children",
+        "musical"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "Five aspiring performers compete for a coveted music industry opportunity, only to discover that their greatest strength lies in collaboration rather than rivalry. As they…",
+      "moods": [
+        "laugh",
+        "feels",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "Dictator: The Hitler Interviews",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "history"
+      ],
+      "runtime": 47,
+      "rating": 7,
+      "language": "en",
+      "desc": "With populist leaders thriving and dictatorships on the rise, this series looks at Hitler from a different perspective - through his friends, enablers and associates. For the…",
+      "moods": [
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "Нам кранты",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "crime"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Three teenagers get their hands on gas cutting equipment. Deciding to earn some extra money, the boys take the car of a police officer neighbor and go to an abandoned construction…",
+      "moods": [
+        "laugh",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "The Cloud is Gone The Hibiscus Remains",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 13,
+      "rating": 7,
+      "language": "other",
+      "desc": "The drama follows Tang Xi Jin and Lie Yun Zheng's touching romance as they face challenges and stay true to their hearts. Through love, growth, and adversity, they discover that…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "The Affair Was Just the Beginning",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "runtime": 51,
+      "rating": 7,
+      "language": "other",
+      "desc": "Two neighbouring couples—a picture-perfect influencer pair and a divorcing doctor duo—are pulled into a darkly comic spiral when dangerous secrets collide.",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "Play Me",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Two aspiring actors have been in love since high school. Separated by adulthood, they made a promise back then: to stand on stage together one day.",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "Put a Ring on It: Cheathab",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "Put a Ring on It: Cheathab follows long-term couples whose relationships have been rocked by infidelity as they move into the Miami-based \"Cheathab House\" to confront the trust…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-03"
+    },
+    {
+      "title": "Mystic Nine",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "runtime": 42,
+      "rating": 7,
+      "language": "other",
+      "desc": "Mystic Nine follows Zhang Qishan (William Chan) as he joins forces with Wu Laogou (Joseph Zeng), alongside Huo Xiangu (Chen Yao) and the other members of the Mystic Nine, when…",
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-03"
     }
   ]
 }
