@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03",
+  "updated": "2026-08-10",
   "source": "curated",
   "titles": [
     {
@@ -5319,6 +5319,276 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-08-03"
+    },
+    {
+      "title": "Sterling Point",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 48,
+      "rating": 7.9,
+      "language": "en",
+      "desc": "Raised in New York City with her twin brother and loving adoptive father, 17-year-old Annie Jacobson experiences a life turn when she inherits her mysterious grandfather's island…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "The Road to Splendor",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 44,
+      "rating": 7,
+      "language": "other",
+      "desc": "Zhao Ling, a bold and loyal underground salt dealer, may come from humble origins, but he carries grand ambitions. He crosses paths with Fu Tingyun, a noble heiress wrongfully…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "Love as Bait",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 11,
+      "rating": 7,
+      "language": "other",
+      "desc": "After a sudden accident, Lu Zaozao finds herself transported into the Republican era as Su Muwan, the young mistress of a wealthy family. She awakens to a husband pointing a gun…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "The Chosen in the Wild with Bear Grylls",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "adventure"
+      ],
+      "runtime": 46,
+      "rating": 7,
+      "language": "en",
+      "desc": "The series follows the cast of the groundbreaking historical drama The Chosen as they take on challenges across forests, deserts, and canyons. Cast members Jonathan Roumie…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "Räjähdyspiste",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Dead End is a six-part crime drama based on true events. It tells the story of the hostage tragedy of August 1986 — the day that stopped all of Finland and forever changed police…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "The Great Queen",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 13,
+      "rating": 7,
+      "language": "other",
+      "desc": "Thrust into a mystic realm amid a kingdom's civil war, modern girl Xi Yuan awakens her hidden phoenix power. Risking everything, she defies the highest divine law and uses her…",
+      "moods": [
+        "feels",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "München Beats",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "family",
+        "musical"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "When young Linda Bierwirth who grew up on a farm outside Munich—comes into contact with the pulsating techno scene in the mid-1990s, she embarks on a journey of self-discovery.…",
+      "moods": [
+        "feels",
+        "cozy",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "Our Sticky Love",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "runtime": 58,
+      "rating": 7,
+      "language": "other",
+      "desc": "Amnesia, small-town hijinks and a shadowy past — classic tropes collide in this rom-com about a star prosecutor and the boxing coach who upends her life.",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "Ricky Gervais Alley Cats",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 17,
+      "rating": 7,
+      "language": "en",
+      "desc": "Curl up with a clutter of useless cats as they swear at the telly, debate life's most outrageous questions and cause chaos in the local community.",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "action",
+        "war"
+      ],
+      "runtime": 54,
+      "rating": 7,
+      "language": "other",
+      "desc": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
+      "moods": [
+        "feels",
+        "thrill",
+        "escape"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "Age Inappropriate",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "Age gap relationships are layered with complexities of power dynamics, family pressure, stereotypes, financial imbalance and yes, true love. Experience, money and life stage are…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-10"
+    },
+    {
+      "title": "To Love & Cherish",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "To help support her family, Daran gave up her dreams of higher education to start working immediately after high school. Unfortunately, she struggles to find work, eventually…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-10"
     }
   ]
 }
