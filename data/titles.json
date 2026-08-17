@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10",
+  "updated": "2026-08-17",
   "source": "curated",
   "titles": [
     {
@@ -5589,6 +5589,277 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-08-10"
+    },
+    {
+      "title": "Lanterns",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "adventure",
+        "scifi"
+      ],
+      "runtime": 60,
+      "rating": 8.2,
+      "language": "en",
+      "desc": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American…",
+      "moods": [
+        "thrill",
+        "escape",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "Hanyi Enters the Heart",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 12,
+      "rating": 7,
+      "language": "other",
+      "desc": "The Shen family is massacred, and young Shen Li witnesses Zhao Wujiu, Cui Hong, and a mysterious figure with a man-eating flower tattoo committing the murders. After narrowly…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "Good Rain Knows Its Season",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Good Rain Knows Its Season follows an aloof architect and a resilient single mother who both survived personal betrayals, finding quiet healing together in Dali.",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "Ash",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "romance",
+        "thriller"
+      ],
+      "runtime": 48,
+      "rating": 7,
+      "language": "other",
+      "desc": "Undercover officer Mo Feihuan unexpectedly crosses paths with Xu Luetao, the CEO of Tianping Group. Drawn together by fate, both men hide behind carefully crafted masks and…",
+      "moods": [
+        "thrill",
+        "escape",
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "Connecting to You",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "fantasy",
+        "romance",
+        "mystery"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Jia Kai has the superpower of seeing the different coloured threads of connection between people but has no connection to anyone himself until a chaotic incident, he meets a…",
+      "moods": [
+        "escape",
+        "feels",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "Umthetho",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "A skilled young public prosecutor is pulled into a brutal prison syndicate led by the brother she thought she lost. Forcing her to choose between justice and family, law and…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "Moria",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 36,
+      "rating": 7,
+      "language": "other",
+      "desc": "In this highly stylized fictionalization, Moria Casán transforms her life story into a symbolic spectacle of fame, controversy and ceaseless reinvention.",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "I'd Do It All Over Again For You",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 14,
+      "rating": 7,
+      "language": "other",
+      "desc": "A female lawyer, Gu Xingcan, infiltrates a criminal organization to avenge her father's death. Betrayed and thrown into the sea, she is rescued by Chen Yao, a soul ferryman.…",
+      "moods": [
+        "feels",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "Sexslaven",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 44,
+      "rating": 7,
+      "language": "other",
+      "desc": "A harrowing two-part documentary chronicling how a mother of five suddenly found herself being sold to unknown men... by her own partner",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "Why Are You Single?",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 33,
+      "rating": 7,
+      "language": "en",
+      "desc": "Comedian Marie Faustin, hosts as singles face outrageous challenges, reveal their biggest red flags, and fight for a shot at love!",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "Hollywood Crime Story: The Mob Takes Over the Movies",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 48,
+      "rating": 7,
+      "language": "en",
+      "desc": "A gripping documentary series uncovering how organized crime infiltrated Hollywood across the 20th century. As stars and gangsters overlapped, the line between glamour and crime…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-17"
+    },
+    {
+      "title": "Conversations with a Killer: The Charles Manson Tapes",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 57,
+      "rating": 7,
+      "language": "en",
+      "desc": "In never-before-heard prison calls recorded before his death, convicted killer Charles Manson reveals the twisted motivations for his gruesome crimes.",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-17"
     }
   ]
 }
