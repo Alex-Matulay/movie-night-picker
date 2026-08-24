@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17",
+  "updated": "2026-08-24",
   "source": "curated",
   "titles": [
     {
@@ -2667,124 +2667,6 @@
       "violence": false,
       "romanceCentral": false,
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
-    },
-    {
-      "title": "The Embroidered Truth",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "runtime": 14,
-      "rating": 7,
-      "language": "other",
-      "desc": "After embroidery house owner Wu Lian ruins countless lives of the female embroiderers in his climb to power, Lin Rulan, one of the embroiderers, survives a tragic betrayal while…",
-      "moods": [
-        "feels",
-        "think",
-        "thrill"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Archives: The Nanyang Mystery",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "adventure",
-        "mystery"
-      ],
-      "runtime": 44,
-      "rating": 7,
-      "language": "other",
-      "desc": "In the early years of the Republic of China era, a bizarre murder case known as \"Water Ghost Longing for Home\" occurs at sea in Nanyang. Zhang Haiyan and Zhang Haixia, two staff…",
-      "moods": [
-        "escape",
-        "think",
-        "thrill"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "The Evil Lawyer",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "thriller",
-        "legal"
-      ],
-      "runtime": 51,
-      "rating": 7,
-      "language": "other",
-      "desc": "When a principled young lawyer becomes the prime accused in the murder of a high-ranking police officer's son, he is forced to team up with the \"Evil Lawyer,\" exploiting every…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Accident Squad",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "mystery"
-      ],
-      "runtime": 16,
-      "rating": 7,
-      "language": "other",
-      "desc": "A series of bizarre deaths disguised as accidental incidents shocks the city, prompting the Public Security Bureau to establish a specialized Accident Investigation Unit. Led by…",
-      "moods": [
-        "think",
-        "thrill"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Viral Hit",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "action"
-      ],
-      "runtime": 50,
-      "rating": 7,
-      "language": "other",
-      "desc": "When he accidentally goes viral after a brawl, a weak and broke teen realizes livestreaming fights against delinquents could change his life.",
-      "moods": [
-        "feels",
-        "thrill",
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
     },
     {
       "title": "Surviving Earth",
@@ -5860,6 +5742,271 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-08-17"
+    },
+    {
+      "title": "ОПГ",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 48,
+      "rating": 7,
+      "language": "other",
+      "desc": "\"OPG\" is a good comedy about how it's never too late to change and change the world for the better. The series' main character is a provincial bandit nicknamed Vorkuta, who lived…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "NFL Hometown Eats",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "food",
+        "sports"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "NFL Hometown Eats combines football, food, and fandom in one delicious package. Each episode, a celebrity superfan teams up with an NFL player to explore the best restaurants…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "The Dynasty: UConn Huskies",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 42,
+      "rating": 7,
+      "language": "en",
+      "desc": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers,…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "Zhòu Duǎn Yè Cháng",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 4,
+      "rating": 7,
+      "language": "other",
+      "desc": "On the first day of their divorce cooling-off period, Lu Zhengdong, Lin Banxia's estranged husband, suddenly experiences a bizarre glitch —his body begins uncontrollably switching…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "Cicada",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "family",
+        "legal"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Ding Ning, a criminal defense lawyer whose biological dad is a kidnapper and whose stepfather is a criminal police officer, crosses paths with Yu Songfan, a chief judge grieving…",
+      "moods": [
+        "feels",
+        "cozy"
+      ],
+      "tone": "light",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "S&X",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "At his clinic, sex therapist Ichito Shimotori treats diverse and intimate sexual issues with sincerity. Yet, he secretly hides a struggle of his own.",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "Emergência 53",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "action"
+      ],
+      "runtime": 42,
+      "rating": 7,
+      "language": "other",
+      "desc": "Emergência 53 follows a rogue Rio de Janeiro ambulance crew navigating, often bypassing, strict protocols to save lives amidst a chaotic urban environment. The series balances…",
+      "moods": [
+        "feels",
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "Indefendable: Sans Trace",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "A few weeks before the Season 4 finale of Indéfendable, two former clients of the Lapointe, MacDonald &amp; Nolin law firm, both acquitted of separate crimes, find their destinies…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "Born Again",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 14,
+      "rating": 7,
+      "language": "other",
+      "desc": "Top influencer Gu Xiaotang's grand wedding turns into a murder scene, orchestrated by her husband, best friend, and agency. Trapped in an infinite time loop of that very day, she…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "Faraway With You",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 14,
+      "rating": 7,
+      "language": "other",
+      "desc": "Living between Beijing and Tianjin, Fang Yuan falls from the highs of career and love into a difficult crossroads. With Meng Yu by his side, he rebuilds his life through…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "A Beautiful Obsession",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 39,
+      "rating": 7,
+      "language": "en",
+      "desc": "An intimate, raw portrait of Manchester City FC across two era-defining seasons. With unprecedented access, the film follows their worst run in decades and fightback to glory.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-24"
+    },
+    {
+      "title": "LION",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "nature"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "The extraordinary true story of lion cub Kio, on his journey to become a king.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-24"
     }
   ]
 }
