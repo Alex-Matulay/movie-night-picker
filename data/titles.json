@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-31",
   "source": "curated",
   "titles": [
     {
@@ -2667,266 +2667,6 @@
       "violence": false,
       "romanceCentral": false,
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
-    },
-    {
-      "title": "Surviving Earth",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "nature"
-      ],
-      "runtime": 60,
-      "rating": 7,
-      "language": "en",
-      "desc": "Surviving Earth will take an incredible journey into prehistory to learn the lessons from past mass extinctions.Adopting cutting-edge digital technology, each episode transports…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Every Year After",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 49,
-      "rating": 7,
-      "language": "en",
-      "desc": "Carley Fortune's Every Year After is a romantic, nostalgic story of first loves and the people and choices that mark us forever.",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Outlast: The Jungle",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "adventure",
-        "nature"
-      ],
-      "runtime": 54,
-      "rating": 7,
-      "language": "en",
-      "desc": "On a remote tropical island, 16 players must survive the elements, outmaneuver rivals and remain part of a team for a chance to win a $1 million prize.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Above Myriads",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "action",
-        "adventure",
-        "fantasy"
-      ],
-      "runtime": 25,
-      "rating": 7,
-      "language": "other",
-      "desc": "After transmigrating to the Xianjiang Continent, Yi Feng discovers that he was born without a spiritual root, making cultivation impossible. With no choice but to rely on the…",
-      "moods": [
-        "thrill",
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Big Girls Wanted: Escaping Pearadise",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "crime"
-      ],
-      "runtime": 60,
-      "rating": 7,
-      "language": "en",
-      "desc": "Pearadise promised safety and a utopia for plus‑size women. The sisterhood turns dark as allegations of assault and coercion spread among the women.",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Most Extreme Humans",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "medical"
-      ],
-      "runtime": 60,
-      "rating": 7,
-      "language": "en",
-      "desc": "Most Extreme Humans follows people from around the globe living with the world's rarest and most remarkable physical conditions. From a Filipino man whose hands have grown so…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Rolf Harris: Primetime Predator",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "crime"
-      ],
-      "runtime": 51,
-      "rating": 7,
-      "language": "en",
-      "desc": "A national treasure. A shocking trial. Rolf Harris: Primetime Predator exposes for the first time how celebrity, nostalgia and unchecked power shielded decades of abuse.",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "The First Jasmine",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 46,
-      "rating": 7,
-      "language": "other",
-      "desc": "Ye Li, the eldest daughter of the Ye family, is married into the dilapidated Prince Ding's manor to wed the wheelchair-bound Prince Mo Xiuyao. On the very same day, Prince Li, Mo…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Secret Diary",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 11,
-      "rating": 7,
-      "language": "other",
-      "desc": "This drama follows Yin Zixi, a strong-willed and successful career woman who rediscovers a diary she lost many years ago, triggering memories that had been buried for over a…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Norges vei tilbake",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "sports"
-      ],
-      "runtime": 60,
-      "rating": 7,
-      "language": "other",
-      "desc": "After 26 years of tournament drought, Norway's 2026 World Cup hopes were next to nil. But what followed rekindled belief, as told in this documentary.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Rise Again",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 12,
-      "rating": 7,
-      "language": "other",
-      "desc": "After three hundred years of waiting, Immortal King Su Wubing and Holy Maiden Lin Ningxue held their celestial wedding, only to be stopped by the Heavenly Dao. To protect Wubing,…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Hamza Loves Animals: Africa",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "children",
-        "nature"
-      ],
-      "runtime": 11,
-      "rating": 7,
-      "language": "en",
-      "desc": "Join Ranger Hamza on an epic African adventure! Visiting animal sanctuaries and exploring the wild, he discovers incredible animals, each with their very own story to tell.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
     },
     {
       "title": "Ground Up",
@@ -6007,6 +5747,270 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-08-24"
+    },
+    {
+      "title": "Blossom through the Cloud",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "After becoming a top pilot, Ruan Sixian reunites with Fu Mingyu as love, ambition, and misunderstandings test their bond.",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "Пора на завод",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 30,
+      "rating": 7,
+      "language": "other",
+      "desc": "Young and successful Moscow investor Vadim changes his привычный life dramatically for the sake of his love for his girlfriend Tanya. To earn the respect of Tanya's father, Igor…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "Beyond Wukong",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "fantasy"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Born from a sacred stone, Sun Xiaosheng sets out west to uncover a deadly mystery and forge his own legend.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "The VI Group of Fatal Case",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "runtime": 20,
+      "rating": 7,
+      "language": "other",
+      "desc": "In the early 1990s, on the eve of the formation of Serious Crime Unit Six in Dong'an City, provincial detective Zeng Keqiang is transferred to the local major crimes unit for a…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "Mr. Fanboy",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 55,
+      "rating": 7,
+      "language": "other",
+      "desc": "University student Wan has a fanboy hobby, following and photographing rising star Nine. When Wan gets a casting opportunity for a support role in a Y series his idol will be…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "Капитан Туман",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "mystery"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "After the assassination attempt, Captain Vitaly Tumansky is determined to find the culprits at any cost. But at the same time, he has to deal with routine matters and learn to…",
+      "moods": [
+        "laugh",
+        "think",
+        "thrill"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "The Phoenix's Other Self",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 12,
+      "rating": 7,
+      "language": "other",
+      "desc": "A princess and an assassin uncover a shocking sisterhood, overcome betrayal, and join forces before finding freedom together.",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "Summertime",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 21,
+      "rating": 7,
+      "language": "other",
+      "desc": "Cha Do-hyeon and Yeo Eun-ho are neighbors and best friends who have grown up together, inseparable for 19 years. Eun-ho has always believed they are closer than family, never…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "One-Room TA",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 10,
+      "rating": 7,
+      "language": "other",
+      "desc": "When college student Uyun meets the quiet and introverted TA Jinhyeong, he immediately asks him out, saying he wants to get to know him more. After just three days of dating,…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "Toda la verdad de mis mentiras",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "runtime": 37,
+      "rating": 7,
+      "language": "other",
+      "desc": "Two roommates find their friendship tested by unspoken feelings during a road trip in this \"light, refreshing and entertaining\" rom-com hailed by Woman.",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "Mousetrap",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "runtime": 57,
+      "rating": 7,
+      "language": "other",
+      "desc": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-31"
+    },
+    {
+      "title": "Brutalt brorskap: Oslo",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 38,
+      "rating": 7,
+      "language": "other",
+      "desc": "A rare insight into the environments that shaped Norway: the wars between the men who ruled the streets, the headlines that dominated the media, and the lives that were lost.",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-08-31"
     }
   ]
 }
