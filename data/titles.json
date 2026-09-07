@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-07",
   "source": "curated",
   "titles": [
     {
@@ -2667,269 +2667,6 @@
       "violence": false,
       "romanceCentral": false,
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
-    },
-    {
-      "title": "Ground Up",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy",
-        "sports"
-      ],
-      "runtime": 28,
-      "rating": 7,
-      "language": "en",
-      "desc": "Set in Tasmania, the series follows AFL administrator Hugh Shen, dispatched from Melbourne to establish the island's first-ever AFL team. But there's a catch: the locals must…",
-      "moods": [
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Tiger Island",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "nature"
-      ],
-      "runtime": 57,
-      "rating": 7,
-      "language": "en",
-      "desc": "In Nepal, a team of film-makers and big cat experts begin an expedition following two tiger mothers and their cubs, on an extraordinary island full of potential dangers.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "33 días",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "runtime": 39,
-      "rating": 7,
-      "language": "other",
-      "desc": "The escape of two dangerous criminals from the Lleida Penitentiary Center in 2001 triggered a 33-day police manhunt, marked by violence, sacrifices and loyalty.",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Wonder Wall",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama"
-      ],
-      "runtime": 46,
-      "rating": 7,
-      "language": "other",
-      "desc": "A terribly unlucky young couple stumbles into a massive villa by chance and accidentally discovers a huge sum of hidden fortune. But when trouble hits, they can no longer tell —…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "The Vanishing of Debbie Griggs",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "crime"
-      ],
-      "runtime": 44,
-      "rating": 7,
-      "language": "en",
-      "desc": "Chronicles the investigation into the 1999 disappearance of 34-year-old Debbie Griggs, a pregnant mother of three who vanished from her home in Deal, Kent - a case spanning more…",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "100 Cooks",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "food"
-      ],
-      "runtime": 71,
-      "rating": 7,
-      "language": "en",
-      "desc": "It is the biggest home cook competition of all time. Actor, television host and former pro football player Terry Crews hosts as 100 of America's elite home cooks enter the stadium…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Best of the World with Antoni Porowski",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "travel"
-      ],
-      "runtime": 60,
-      "rating": 7,
-      "language": "en",
-      "desc": "National Geographic announced today the greenlight of Best of the World with Antoni Porowski, a vibrant new travel docuseries set to premiere in 2026 on National Geographic,…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-11"
-    },
-    {
-      "title": "Love Has Fireworks",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Qian Fei, a junior investment banking employee, had her life carefully planned out and believed she was on the path to happiness. But her world is turned upside down when her…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-15"
-    },
-    {
-      "title": "Little Singles",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "en",
-      "desc": "Little Singles features a tight-knit group of friends from the little person community as they come together for an unforgettable vacation under one roof. For years, these friends…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-15"
-    },
-    {
-      "title": "Call For Dr. Jiang",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "medical"
-      ],
-      "runtime": 11,
-      "rating": 7,
-      "language": "other",
-      "desc": "Jiang Tian Cai, a gifted but aloof maxillofacial surgeon, suffers a major setback in his life and starts anew at a dental hospital in a small coastal town. In the confines of his…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-15"
-    },
-    {
-      "title": "Малахит",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "adventure",
-        "family",
-        "fantasy"
-      ],
-      "runtime": 43,
-      "rating": 7,
-      "language": "other",
-      "desc": "In the village of Krasny Kamen, three seventh graders — Roma, Asya and Gordey ― are spending their summer holidays carefree. On one of his trips to the quarry, Roma finds a…",
-      "moods": [
-        "escape",
-        "cozy"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-15"
-    },
-    {
-      "title": "Nurse the Dead",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "comedy",
-        "fantasy"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "en",
-      "desc": "Nurse the Dead follows Noa Reyes, a driven Filipina nurse supervisor whose ability to see ghosts — referred to as her \"third eye\" — makes her the go-to handler for a hospital ward…",
-      "moods": [
-        "feels",
-        "laugh",
-        "escape"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-15"
     },
     {
       "title": "Legacy of Heroes",
@@ -6011,6 +5748,278 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-08-31"
+    },
+    {
+      "title": "Fragments of Truth",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Orphaned at a young age, Han Ning loses his sister in a bizarre kidnapping case. Determined to seek justice, he becomes a detective, using his natural profiling talent to catch…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "Khom Khlang",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance",
+        "mystery"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Bulan, a woman with a mysterious aura, crosses paths with Peem, a police officer desperate to solve a case for which the law offers no answers. Recommended as the only one capable…",
+      "moods": [
+        "feels",
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "Colisión",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "A family crisis forces a mother and daughter with opposing worldviews into fierce conflict. As they each fight to defend their own truth, a buried secret from the past threatens…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "The Long Watch",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "A major leak case around the turn of the century strikes at the heart of cross-strait dynamics, masking a sharp battle between foreign operatives and our own forces along the…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "A Tale Of Two Cities",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "London, 1782. Tensions run high in the war between France and Britain. A young woman, Lucie Manette has her life upended when she receives a message from Paris - her father,…",
+      "moods": [
+        "feels",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "Marble Hall Murders",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "Susan Ryeland, is a book editor who all too often finds herself involved in baffling murders. Returning to England, she is reluctantly drawn into a new Atticus Pünd mystery, this…",
+      "moods": [
+        "feels",
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "Narumi's Week at Work",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "animation",
+        "scifi"
+      ],
+      "runtime": 4,
+      "rating": 7,
+      "language": "other",
+      "desc": "Follows the daily life and work of Gen Narumi, the captain of the First Division and Japan's strongest anti-kaiju fighter.",
+      "moods": [
+        "escape",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "No.9 Hunter",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 16,
+      "rating": 7,
+      "language": "other",
+      "desc": "Since time immemorial, the Sky Rift has unleashed demonic chaos upon the mortal world. Shangguan Ziyan, a young demoness, and Yuanchu, a Taoist priest, are brought together by…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "The Program: Texas Tech",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 44,
+      "rating": 7,
+      "language": "en",
+      "desc": "The Program: Texas Tech gives unprecedented access into the Texas Tech University Red Raiders College Football Program - including exclusive interviews with head coach Joey…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "On Campus: Game of the Week",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "Every week at a different school, go inside campus life with real college students from the lead-up to the aftermath of college football's biggest games.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "The Last Oath",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 24,
+      "rating": 7,
+      "language": "other",
+      "desc": "A zombie virus sweeps across the globe, and Lin Zai tragically discovers he carries an immunity, making him targeted by multiple factions. A-Leh, a cold-blooded assassin, is…",
+      "moods": [
+        "thrill",
+        "escape",
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-07"
+    },
+    {
+      "title": "The Long Race",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 6,
+      "rating": 7,
+      "language": "other",
+      "desc": "Tycoon Gao Sheng has long monopolized motorcycle racing events, reaping huge profits through rigged gambling rings and shady gray-area deals. Three years ago, he secretly tampered…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-07"
     }
   ]
 }
