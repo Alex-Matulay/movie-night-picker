@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-14",
   "source": "curated",
   "titles": [
     {
@@ -2669,137 +2669,6 @@
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
     },
     {
-      "title": "Legacy of Heroes",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "war",
-        "history"
-      ],
-      "runtime": 55,
-      "rating": 7,
-      "language": "other",
-      "desc": "Armenian soldiers' heroics during Artsakh wars through personal stories, battlefield bravery, and human experiences, highlighting their sacrifices, love, struggles, and how their…",
-      "moods": [
-        "feels",
-        "think"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-15"
-    },
-    {
-      "title": "The Polygamist",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama"
-      ],
-      "runtime": 27,
-      "rating": 7,
-      "language": "other",
-      "desc": "A self-made CEO, Jonasi Gomora builds an empire and a complicated personal life that begins to collapse under the weight of his choices, as the wives and mistresses in his life…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-15"
-    },
-    {
-      "title": "Proud",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama"
-      ],
-      "runtime": 39,
-      "rating": 7,
-      "language": "other",
-      "desc": "The story of Filip, a young and irresponsible gay man who lives with the conviction that the world belongs to him and that this will never change. He is brazen, unpunished,…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-15"
-    },
-    {
-      "title": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 46,
-      "rating": 7,
-      "language": "other",
-      "desc": "At the peak of his career, top celebrity Feng Qinglang escapes to a remote tea mountain, seeking a brief respite from the spotlight. Instead, he meets Xu Changyang, a…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-15"
-    },
-    {
-      "title": "Fix the Error!",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "fantasy",
-        "romance"
-      ],
-      "runtime": 10,
-      "rating": 7,
-      "language": "other",
-      "desc": "Ji Han, the grim reaper who manages death, receives a list of names and descends to the human world again today. School, unfamiliar scenery, and a strange self. But the task…",
-      "moods": [
-        "escape",
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-15"
-    },
-    {
-      "title": "Jim Henson's Monster Dance",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "children"
-      ],
-      "runtime": 4,
-      "rating": 7,
-      "language": "en",
-      "desc": "Calling all Monsters! Do YOU love to DANCE? Come join the fuzzy, friendly, funky fun with Toots, Teeny and Razzle Dazzle, as they get down.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-15"
-    },
-    {
       "title": "Harlan Coben's I Will Find You",
       "type": "series",
       "year": 2026,
@@ -2819,116 +2688,6 @@
       "tone": "heavy",
       "pace": "fast",
       "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-22"
-    },
-    {
-      "title": "UFC Rivals",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "sports"
-      ],
-      "runtime": 61,
-      "rating": 7,
-      "language": "en",
-      "desc": "UFC Rivals is an electrifying deep dive into the most iconic feuds in UFC history. Blending gripping archival footage, exclusive interviews, and a dynamic roundtable, the series…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-22"
-    },
-    {
-      "title": "Angels and Guards",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 17,
-      "rating": 7,
-      "language": "other",
-      "desc": "Bounty hunter Shen Bingfan joins the Northern Bureau of the Jinyiwei (Imperial Guard), the emperor's elite secret guard, to uncover the truth behind her father's wrongful case.…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-22"
-    },
-    {
-      "title": "Endless Love",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 13,
-      "rating": 7,
-      "language": "other",
-      "desc": "This is the blood-soaked tale across three lifetimes of Mu Ruyi, Princess of Xiling, and Ling Xiao, Prince of Dongqing. She saved his life, but he returned with vengeance. Their…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-22"
-    },
-    {
-      "title": "The Legend of Rosy Clouds",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy",
-        "fantasy",
-        "romance"
-      ],
-      "runtime": 42,
-      "rating": 7,
-      "language": "other",
-      "desc": "In the legendary Nine Cities, Fan Yun, a poor young lady from a distinguished family, and Qi Zheng, the lord of Bai Qie Hei City, progress from testing each other to mutual trust.…",
-      "moods": [
-        "laugh",
-        "escape",
-        "feels"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-22"
-    },
-    {
-      "title": "Várzea: Onde Nasce o Futebol",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "sports"
-      ],
-      "runtime": 38,
-      "rating": 7,
-      "language": "other",
-      "desc": "Brazil lives, breathes and exports várzea. This series delves into the stories behind the beautiful game — one with the power to change lives.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-06-22"
@@ -3039,27 +2798,6 @@
       "pace": "normal",
       "violence": false,
       "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-22"
-    },
-    {
-      "title": "The Season",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama"
-      ],
-      "runtime": 48,
-      "rating": 4.2,
-      "language": "en",
-      "desc": "A striving American is thrown headfirst into the world of superyachts, sun, and scandal over the Hong Kong boating season in this soapy delicious revenge thriller about the…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
       "source": "auto",
       "added": "2026-06-22"
     },
@@ -6020,6 +5758,275 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-09-07"
+    },
+    {
+      "title": "Gladiator in the Theater",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "At 18, Meng Jinfu rises from a struggling opera apprentice to a Peking Opera star, pursuing his dream through hardship and changing times.",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "Apocalypse",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "adventure"
+      ],
+      "runtime": 68,
+      "rating": 7,
+      "language": "en",
+      "desc": "If the world as we know it came to an end, what would you do? Our modern world exists on a knife edge, but if the worst happened, the fight for survival won't be in jungles,…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "High Value Target: The Hunt for Saddam",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "thriller",
+        "history"
+      ],
+      "runtime": 61,
+      "rating": 7,
+      "language": "en",
+      "desc": "High Value Target: The Hunt for Saddam is the story about a man's relentless quest for truth, a nation's complicated campaign for justice, and the bonds between fathers and sons.…",
+      "moods": [
+        "feels",
+        "thrill",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "City Rong",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 20,
+      "rating": 7,
+      "language": "other",
+      "desc": "When Lian Ye, hall master of the Sanshan Gang, loses his whole family in a massacre, he teams up with childhood friend Li Mingyuan, deputy police chief of Rongcheng, and Chen…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "Bankzitters: Overleven in Het Wild",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "adventure"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "The five members of the Bankzitters are stripped of their everyday luxuries, smartphones, and comforts, and left in an isolated wilderness environment. Working together—or against…",
+      "moods": [
+        "laugh",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "Police in Love",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "runtime": 51,
+      "rating": 7,
+      "language": "other",
+      "desc": "Marry me? Just six months and we'll be divorced. Inspector Thiartha's mother gives him an ultimatum. To counteract his bad luck, he'll have to marry someone born Monday, the…",
+      "moods": [
+        "laugh",
+        "feels"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "Ali Baba aur 40 Bhoot",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "adventure"
+      ],
+      "runtime": 32,
+      "rating": 7,
+      "language": "en",
+      "desc": "Rooted in logic and science, Alisha is drawn into an experience that defies everything she believes. Will she find answers or uncover a terrifying truth?",
+      "moods": [
+        "laugh",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "Against the Current",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 47,
+      "rating": 7,
+      "language": "other",
+      "desc": "Shen Jia Lan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jin Qi, she is forced to assume a…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "Physical Italia: da 100 a 1",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 59,
+      "rating": 7,
+      "language": "other",
+      "desc": "One hundred Italian athletes face brutal physical challenges, each battling to outlast the rest and claim the glory of becoming the one true champion.",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "Honor Thy Mother",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "family",
+        "thriller"
+      ],
+      "runtime": 59,
+      "rating": 7,
+      "language": "other",
+      "desc": "A powerful CEO and a struggling actress from opposite worlds are forced into an unlikely partnership to rescue a company in crisis. As they fight to rebuild its reputation, old…",
+      "moods": [
+        "feels",
+        "cozy",
+        "thrill"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "Raising Poison, Raising Love",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 2,
+      "rating": 7,
+      "language": "other",
+      "desc": "Ten years ago the capital's worst rake, Xiao Jingyu, was tamed by a mysterious girl wielding a whip and sorcery, and swore at parting to marry her. Now a grand general, he hides…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-14"
+    },
+    {
+      "title": "Cold Hunt",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "runtime": 56,
+      "rating": 7,
+      "language": "other",
+      "desc": "Criminal investigator Li Yujing is temporarily assigned to assist female officer Yue Qingchuan in solving a series of child trafficking cases. During the investigation, he…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-14"
     }
   ]
 }
