@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-28",
   "source": "curated",
   "titles": [
     {
@@ -2667,274 +2667,6 @@
       "violence": false,
       "romanceCentral": false,
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
-    },
-    {
-      "title": "The Killings at Parrish Station",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "runtime": 48,
-      "rating": 7.3,
-      "language": "en",
-      "desc": "It's 1987, and Detective Georgia Cooke is called in to investigate the massacre of four scientists who have been brutally murdered in inexplicable ways, with a lone survivor the…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-29"
-    },
-    {
-      "title": "Deep In",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 40,
-      "rating": 7,
-      "language": "other",
-      "desc": "Fresh off winning Best Actor, Chen Xin finds himself cast alongside ambitious newcomer Zhang Zhun in a daring LGBTQ+ film. On screen, they portray psychiatrist Fang Chi and his…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-29"
-    },
-    {
-      "title": "Unfold",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance",
-        "thriller"
-      ],
-      "runtime": 18,
-      "rating": 7,
-      "language": "other",
-      "desc": "Bai Che, a death-scene cleanup worker, discovers his adoptive father's mysterious death at a job site. Black-market organ trade messages soon appear, and a break-in at his home…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-29"
-    },
-    {
-      "title": "Life, Larry and the Pursuit of Unhappiness",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy"
-      ],
-      "runtime": 34,
-      "rating": 7,
-      "language": "en",
-      "desc": "President and Mrs. Obama wanted to honor America's 250th anniversary and celebrate the unique history of our nation on this special occasion....But then Larry David called.",
-      "moods": [
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-29"
-    },
-    {
-      "title": "The Imperial Master",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "fantasy",
-        "romance"
-      ],
-      "runtime": 14,
-      "rating": 7,
-      "language": "other",
-      "desc": "A top science student, Luo Chang'an, unexpectedly time-travels and somehow becomes the magistrate of Jiuzhang County — a place famously known as \"Widow County.\" His only wish is…",
-      "moods": [
-        "feels",
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-06-29"
-    },
-    {
-      "title": "The Found Family",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "horror"
-      ],
-      "runtime": 16,
-      "rating": 7,
-      "language": "other",
-      "desc": "Lin You, a freshly released juvenile offender with an unusually strong fate, stumbles into the \"Daji Agency\" and lands a job as a haunted-house tester. Teaming up with Xu Liuliu,…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-06-29"
-    },
-    {
-      "title": "Summer Serendipity",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 11,
-      "rating": 7,
-      "language": "other",
-      "desc": "Su Wan, a university student majoring in animal psychology, has loved animals since childhood and cannot bear to see them harmed. One day, she learns that a group of dogs has been…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
-      "title": "Cases Between Us",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "comedy"
-      ],
-      "runtime": 19,
-      "rating": 7,
-      "language": "other",
-      "desc": "Two young men, Zhao Shaoshang and Yuan Hong, come from vastly different educational and family backgrounds. Through one case after another, they learn from each other and grow…",
-      "moods": [
-        "feels",
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
-      "title": "Road to Success",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "sports"
-      ],
-      "runtime": 42,
-      "rating": 7,
-      "language": "other",
-      "desc": "Adapted from the novel \"Narrow Path\" by Chang Er on Jinjiang Literature City, it tells the story of Lin Wanxing, a psychology doctor, who returns to his hometown, Hongjing, to…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
-      "title": "Auspicious Nobles",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 15,
-      "rating": 7,
-      "language": "other",
-      "desc": "A modern financial prodigy, Li Qingqing, is suddenly transported back to ancient times, where she becomes the wife of General Pan Yang. Hoping for a quiet and peaceful life, she…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
-      "title": "Crowned in a Hundred Days",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "fantasy",
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "After a tragedy destroys his life, a humble diner owner swallows the soul of the true king to gain extraordinary powers. With exactly one hundred days until his own soul is…",
-      "moods": [
-        "escape",
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
-      "title": "Newlywed Addiction",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Qiao Yuan is forced into marriage with Fu Tingzhou after her older sister runs away from the wedding. To the outside world, this looks like a sudden replacement marriage, but for…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-06"
     },
     {
       "title": "Muthassi",
@@ -6027,6 +5759,272 @@
       "romanceCentral": true,
       "source": "auto",
       "added": "2026-09-21"
+    },
+    {
+      "title": "Irreplaceable",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "After a devastating upheaval in her family, small-town girl Xu Chi enters the consulting industry, determined to live by one principle: never let herself be replaced. There, she…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "The Cruel Tribunal",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 15,
+      "rating": 7,
+      "language": "other",
+      "desc": "Modern-day lawyer Jiang Xiaobai finds herself transported to the ancient kingdom of Bojie, where she uses her legal expertise to fight for justice on behalf of the powerless. She…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "Overgeared",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "animation",
+        "fantasy"
+      ],
+      "runtime": 25,
+      "rating": 7,
+      "language": "other",
+      "desc": "Escape everyday life in SATISFY, a VR game where players earn real-world fame and fortune. One player, Grid, can't seem to catch a break in the game or in real life. That all…",
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "Tall Tales & Murder",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy",
+        "crime"
+      ],
+      "runtime": 49,
+      "rating": 7,
+      "language": "en",
+      "desc": "The series mixes a Bonnie and Clyde-style adventure of bent cops, kidnapping, underworld fixers, libido-enhancing horse medication bootleggers, and the dilemmas of unconventional…",
+      "moods": [
+        "feels",
+        "laugh",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "Spark of the Long March",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Set in the pivotal period after the Maogong Meeting during the Long March, a time of tangled conflicts, fierce line struggles, and daunting ethnic work, the drama revolves around…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "Not yours",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "To repay his father's debt, Pao Bei is forced to work at the mansion of the cold and wealthy P'Eng. Bound by a contract, the two go from mutual dislike to becoming increasingly…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "Dive into You",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "other",
+      "desc": "Yun Ha Na is a top actress adored across Asia, living a glamorous life at the height of her career. But after a mysterious accident causes her soul to switch with that of her twin…",
+      "moods": [
+        "escape",
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "Искусство падения",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Dima, a young dancer, participates in a choreographic show and falls under the influence of a strict mentor, Phil. Together with his girlfriend, he becomes a participant in a…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "The Masked Lover",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 13,
+      "rating": 7,
+      "language": "other",
+      "desc": "Warlord Lu Zhentian controls Fancheng. His adjutant, He Jingchen, plots to seize the Lu family's hidden treasure, hoping to strengthen the army and protect the people. Su Yutang,…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "4 Blocks Zero",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "runtime": 55,
+      "rating": 7,
+      "language": "other",
+      "desc": "The prequel to the award-winning gangster drama ‘4 Blocks' tells the story of the Hamadys in 1990s Berlin: having fled Lebanon and only accepted as tolerated refugees in Germany,…",
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "Paolo",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "thriller"
+      ],
+      "runtime": 52,
+      "rating": 7,
+      "language": "other",
+      "desc": "Paolo's ordinary working-class existence is upended when he encounters the ambitious, and magnetic local politician Téophane, an old school mate. What begins as admiration and a…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-09-28"
+    },
+    {
+      "title": "Unsoiled Starlight",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 15,
+      "rating": 7,
+      "language": "other",
+      "desc": "Shu Tinglan, scarred by family trauma from her upbringing, grew into a sensitive, love-starved young woman. As an adult, she crosses paths with Zhuo Yu'an, the CEO of a tech…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-09-28"
     }
   ]
 }
