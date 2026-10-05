@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-10-05",
   "source": "curated",
   "titles": [
     {
@@ -2669,143 +2669,6 @@
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
     },
     {
-      "title": "Muthassi",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "horror"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "A mother, torn between love and destruction, faces her son's demonic change from a cursed lineage.",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
-      "title": "Bittersweet Love",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Born into poverty in a rural village, Lu Xiaofan unexpectedly enters an elite family in the capital as the live-in son-in-law of a powerful official's household. He once believed…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
-      "title": "Operation Dark Gold",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "mystery"
-      ],
-      "runtime": 13,
-      "rating": 7,
-      "language": "other",
-      "desc": "After failing to join the police force, police academy student Yan Mingyu is expelled for participating in underground boxing matches. Under the direction of Economic Crime…",
-      "moods": [
-        "feels",
-        "think",
-        "thrill"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
-      "title": "Unsettled Case",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "crime",
-        "mystery"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "One cold case per unit, two units per season. The debut season of Unsettled Case focuses on two units: \"The Jewelry Store Serial Robbery\" and \"The Bianji Hotel Robbery.\" Within a…",
-      "moods": [
-        "thrill",
-        "think"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
-      "title": "I Became a Legend after My 10 Year-Long Last Stand.",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "action",
-        "adventure",
-        "animation",
-        "fantasy"
-      ],
-      "runtime": 24,
-      "rating": 7,
-      "language": "other",
-      "desc": "With no other options, Luck makes the choice to hold the line against the unending demonic hordes alone, to make sure his comrades can escape with their lives. However, through a…",
-      "moods": [
-        "thrill",
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
-      "title": "Super Subbu",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "comedy"
-      ],
-      "runtime": 39,
-      "rating": 7,
-      "language": "other",
-      "desc": "When unlucky Subbu is assigned to teach sex ed in a hostile village, he must find a way to succeed while avoiding his conservative father's wrath.",
-      "moods": [
-        "feels",
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-06"
-    },
-    {
       "title": "Little House on the Prairie",
       "type": "series",
       "year": 2026,
@@ -2826,139 +2689,6 @@
       "tone": "light",
       "pace": "normal",
       "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "Mu Ye Gui Shi Zhi Ban Shan Shu",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "action",
-        "adventure",
-        "mystery"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Mu Ye Gui Shi Zhi Ban Shan Shu is an action-adventure series that follows the \"Ban Shan\" clan—a legendary group of tomb raiders who utilize Taoist arts. Striking out into…",
-      "moods": [
-        "thrill",
-        "escape",
-        "think"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "Evolution",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "nature",
-        "history"
-      ],
-      "runtime": 58,
-      "rating": 7,
-      "language": "en",
-      "desc": "From a single spark of life, through millions of generations, animals have become diverse, weird and beautiful. Chris Packham tells the incredible story in astonishing new detail.",
-      "moods": [
-        "think"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "Murder 101",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "crime"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "en",
-      "desc": "In a quiet Tennessee town, a high school sociology class takes on a mystery that has lingered for decades. Led by teacher Alex Campbell, the students of Elizabethton High School…",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "Hot Ones: Extra Heat",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "food"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "en",
-      "desc": "Hot Ones: Extra Heat challenges celebrity guests to answer spicy questions while eating even spicier wings.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "Pitmasters",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "food"
-      ],
-      "runtime": 90,
-      "rating": 7,
-      "language": "en",
-      "desc": "Pitmasters is a raw, relentless, real-world BBQ competition unlike anything ever attempted on Food Network. A non-stop week-long battle set deep in the wilderness where teams of…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "The Westies",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "runtime": 51,
-      "rating": 7,
-      "language": "en",
-      "desc": "The Westies takes place during the construction of the Jacob Javitz Convention Center on the Westies' home turf in Hell's Kitchen, which promises a financial windfall. Despite…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-07-13"
@@ -6025,6 +5755,278 @@
       "romanceCentral": true,
       "source": "auto",
       "added": "2026-09-28"
+    },
+    {
+      "title": "Вор в загоне",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "crime"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "A Moscow psychologist visits his fiancée's parents in a provincial town and begins treating her father—a local crime boss suffering from an anxiety disorder.",
+      "moods": [
+        "laugh",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "Pierre",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "legal"
+      ],
+      "runtime": 47,
+      "rating": 7,
+      "language": "en",
+      "desc": "West London duty solicitor Pierre is a force of nature: charming and funny, a glamorous character in an unglamorous profession, juggling the pressures of his job, a fragile…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "Sweet Deceit",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "food"
+      ],
+      "runtime": 30,
+      "rating": 7,
+      "language": "en",
+      "desc": "Sweet Deceit challenges teams of three competitors to search for deceptive, hyper-realistic sweets hiding in plain sight in real-world locations. Actor Josh Peck, who hilariously…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "The Reluctant Vampire",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "fantasy"
+      ],
+      "runtime": 29,
+      "rating": 7,
+      "language": "en",
+      "desc": "Set in a timeless English village, where everything is picturesque, everything, that is, except for the vampires living in the castle on the hill who come out at night for a…",
+      "moods": [
+        "laugh",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "Decoding You",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "other",
+      "desc": "Krit, the polished CEO of a data analytics empire, has always put family and duty above his own heart. When a scandal linked to his ex-lover tarnishes his reputation, his…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "A Tale of the Secret Saint",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "animation",
+        "fantasy"
+      ],
+      "runtime": 29,
+      "rating": 7,
+      "language": "other",
+      "desc": "Fia always dreamed of becoming a knight. Born into a family of knights, she's the least talented among them, but she still clutches to her hope and trains with everything she has.…",
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "Magical Explorer",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "animation",
+        "fantasy"
+      ],
+      "runtime": 30,
+      "rating": 7,
+      "language": "other",
+      "desc": "The legendary bishoujo game \"Magical★Explorer\"I was reincarnated not as the protagonist surrounded by heroines thanks to my cheat abilities, but as Takine Kousuke, the unfortunate…",
+      "moods": [
+        "laugh",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "Fatal Proximity to Him",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 15,
+      "rating": 7,
+      "language": "other",
+      "desc": "After a car accident, prima ballerina Luo Xiyu is transported back to 2014, where she meets He Lan, a notorious troublemaker. She soon discovers that their lives are mysteriously…",
+      "moods": [
+        "escape",
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "Nine to Five - Das Amt",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 20,
+      "rating": 7,
+      "language": "other",
+      "desc": "In the Berlin-Tiergarten-Mitte-West citizens' office, bureaucratic chaos collides with career ambitions: The new boss, Ronja, causes unrest with her attempts at optimization,…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "Shadow Punisher",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "mystery"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "In the 37th year of the Hongyun era, the Great Shi Dynasty is about to meet bloodshed. Liluo, a fallen nation, has risen from the ashes with its \"Five Extraordinary Mystical…",
+      "moods": [
+        "feels",
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "Paul, la série",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 31,
+      "rating": 7,
+      "language": "other",
+      "desc": "At nearly 30, Paul Mirabel has just sold Amazon the recording of his show and a documentary about his life. Problem, he spent more time on his PlayStation than working and has no…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-05"
+    },
+    {
+      "title": "#Love",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "runtime": 33,
+      "rating": 7,
+      "language": "other",
+      "desc": "Arjun Das and Aishwarya Lekshmi star as rival dating app founders who put their theories about love to the test in a 60-day journey to find love.",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-05"
     }
   ]
 }
