@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-12",
   "source": "curated",
   "titles": [
     {
@@ -2669,146 +2669,6 @@
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
     },
     {
-      "title": "Little House on the Prairie",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "family",
-        "western"
-      ],
-      "runtime": 49,
-      "rating": 7.6,
-      "language": "en",
-      "desc": "A transformed adaptation of Wilder's semi-autobiographical books, the new Little House on the Prairie is part family drama, part epic survival tale, and part origin story of the…",
-      "moods": [
-        "feels",
-        "cozy",
-        "escape"
-      ],
-      "tone": "light",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "She Is Still Cute Today",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "comedy",
-        "romance"
-      ],
-      "runtime": 10,
-      "rating": 7,
-      "language": "other",
-      "desc": "\"I'm into someone.\" Cang Shu, a straight-A student who always indulges in learning and has no passion for social contact, actually announces in public that she likes the poor…",
-      "moods": [
-        "feels",
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "Spread Like Wildfire",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Years after a painful mistake tears them apart, a ruthless but deeply loyal lawyer and a determined female reporter are forced to work together. Bound by shared secrets and…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "Key to the Phoenix Heart",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "Паша",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "comedy"
-      ],
-      "runtime": 33,
-      "rating": 7,
-      "language": "other",
-      "desc": "Pasha Belov is a native Muscovite, studied at Gnesinka, and he is also half Uzbek with pronounced Oriental features. But here's the problem — Pasha doesn't know anything about his…",
-      "moods": [
-        "feels",
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
-      "title": "Lavender",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance",
-        "thriller"
-      ],
-      "runtime": 31,
-      "rating": 7,
-      "language": "other",
-      "desc": "A story about love, identity, and the relationships that have no name — and no less meaning for it. Appu and Mohak have built a life together in Mumbai. When circumstances force a…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-13"
-    },
-    {
       "title": "Ride or Die",
       "type": "series",
       "year": 2026,
@@ -2828,141 +2688,6 @@
       ],
       "tone": "light",
       "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "Treasure & Dirt",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "crime",
-        "thriller"
-      ],
-      "runtime": 57,
-      "rating": 7,
-      "language": "en",
-      "desc": "In a dying opal town in the middle of the desert, law and order are little more than myths. Thieves raid the mines, zealots preach salvation to the lost, and billionaire magnates…",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "Overdo",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 39,
-      "rating": 7,
-      "language": "other",
-      "desc": "\"Overdo\" tells the story of Murong Qingyi, the youngest son of a warlord family in Republican-era Shanghai, who suffers abuse from his adoptive father after being switched at…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "Maine Cabin Masters: All Inn",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "diy"
-      ],
-      "runtime": 60,
-      "rating": 7,
-      "language": "en",
-      "desc": "The Maine Cabin Masters take on their most ambitious build yet: transforming a rundown B&amp;B into a stunning 12-acre lakeside inn. Along the way, Chase and his wife, Sarah,…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "Zeri Feisheng",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "action",
-        "adventure",
-        "fantasy"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "In the chaotic times, demons and monsters roam freely, and treacherous officials are in power. With the invasion of the Netherworld, both humans and Netherworld beings wreak havoc…",
-      "moods": [
-        "thrill",
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "Ann Droid",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy"
-      ],
-      "runtime": 28,
-      "rating": 7,
-      "language": "en",
-      "desc": "It's Sue's worst nightmare - an overly attentive, socially inept, second-hand robot carer. But maybe this droid has its uses...",
-      "moods": [
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "The East Palace",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "horror",
-        "mystery"
-      ],
-      "runtime": 50,
-      "rating": 7,
-      "language": "other",
-      "desc": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
-      "moods": [
-        "feels",
-        "thrill",
-        "think"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
       "violence": true,
       "romanceCentral": false,
       "source": "auto",
@@ -6027,6 +5752,283 @@
       "romanceCentral": true,
       "source": "auto",
       "added": "2026-10-05"
+    },
+    {
+      "title": "NCIS: New York",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "action",
+        "crime"
+      ],
+      "runtime": 60,
+      "rating": 7.4,
+      "language": "en",
+      "desc": "Legendary NCIS Agent Sam Hanna returns to his hometown of New York City to their field office, partnering with a roguish agent and helping lead a new team as they are tasked with…",
+      "moods": [
+        "feels",
+        "thrill",
+        "escape"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "Carrie",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "horror",
+        "fantasy"
+      ],
+      "runtime": 52,
+      "rating": 7.1,
+      "language": "en",
+      "desc": "Based on Stephen King's iconic debut novel, Carrie is a bold, timely, and surprising reinvention of this classic coming of age story, adapted for television for the first time by…",
+      "moods": [
+        "feels",
+        "thrill",
+        "escape"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "Quite The Girl",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 17,
+      "rating": 7,
+      "language": "other",
+      "desc": "Lu Mingyu appears to be a sheltered young lady who rarely ventures outside. In reality, she lives at the mercy of others, enduring constant humiliation that has made her ruthless…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "The Party",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 47,
+      "rating": 7,
+      "language": "en",
+      "desc": "Raised alone by his working-class mum, Sylvia, Martin wins a scholarship to an elite boarding school, where he first meets Ben. They forge an unbreakable bond, as Ben and the…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "Treasure Island",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "runtime": 44,
+      "rating": 7,
+      "language": "en",
+      "desc": "Treasure Island charts the transformation of teenager Jim Hawkins from sheltered boy to emboldened young pirate. When Jim gets his hands on a legendary treasure map, his mother…",
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "The Pet Cemetery Murders: A Ghost Story",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime",
+        "fantasy"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "The re-opening of a mysterious 1985 cold case murder in Louisiana unearths a haunting history of bloodshed and long-buried trauma.What begins as an investigation into a 1985…",
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "Falling Beyond the Rules",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 2,
+      "rating": 7,
+      "language": "other",
+      "desc": "Xi Xubai is a meticulous professor who has always lived by strict rules, keeping his emotions firmly under control. Fang Zhixia, a bold and free-spirited novelist, is everything…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "Good Night",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy"
+      ],
+      "runtime": 44,
+      "rating": 7,
+      "language": "other",
+      "desc": "After failing in Beijing, Wang Can returns home and takes a job at Qingliangshan Funeral Home, planning it as a stopgap. Reunited with three childhood friends now his coworkers,…",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "The Vanishing Beauty",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Raised in the Jiangsu, Zhejiang, and Shanghai region, internet blogger Yu Meng is the only daughter in her family and a \"woman of good fortune\" envied by all. On her fifth wedding…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "Avatar: Seven Havens",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "action",
+        "adventure"
+      ],
+      "runtime": 22,
+      "rating": 7,
+      "language": "en",
+      "desc": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's…",
+      "moods": [
+        "thrill",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "The Great Long March",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "war"
+      ],
+      "runtime": 46,
+      "rating": 7,
+      "language": "other",
+      "desc": "Revolving around the arduous Long March of the Central Red Army, it documents the historical process—from the army's failure in the fifth counter-encirclement campaign, to the…",
+      "moods": [
+        "feels",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-12"
+    },
+    {
+      "title": "Take Charge of My Heart",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 63,
+      "rating": 7,
+      "language": "other",
+      "desc": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+      "moods": [
+        "laugh",
+        "escape",
+        "feels"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-12"
     }
   ]
 }
