@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-19",
   "source": "curated",
   "titles": [
     {
@@ -2669,145 +2669,6 @@
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
     },
     {
-      "title": "Ride or Die",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy",
-        "action",
-        "adventure"
-      ],
-      "runtime": 52,
-      "rating": 7.5,
-      "language": "en",
-      "desc": "Ride or Die follows best friends Debbie Claybourne and Judith Burton who thought they knew everything about each other, except Judith turns out to be an international assassin.…",
-      "moods": [
-        "laugh",
-        "thrill",
-        "escape"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "Hanzaisha",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "crime",
-        "thriller"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Following the sole survivor of a random mass stabbing who is given a mysterious 10-day ultimatum to live, three unlikely allies—a determined detective, an investigative reporter,…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "Super Market",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy"
-      ],
-      "runtime": 27,
-      "rating": 7,
-      "language": "other",
-      "desc": "Super Market is the new Italian Prime Original comedy series written and directed by the collective Il Terzo Segreto di Satira on the tragicomic events of Eury, a chaotic…",
-      "moods": [
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "Фейк",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "thriller",
-        "mystery"
-      ],
-      "runtime": 46,
-      "rating": 7,
-      "language": "other",
-      "desc": "Lyceum teacher Rita begins to be stalked online. The stalker hits her where it hurts: work, students, family, and self-confidence. Rita tries to understand: who is this person and…",
-      "moods": [
-        "feels",
-        "thrill",
-        "think"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "Холод",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "thriller"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Zhenya is unjustly imprisoned for a car accident on Kutuzovsky Prospekt, in which her husband and 6-year-old daughter are killed. The real culprits of the accident are rich kids…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
-      "title": "Родина чемпионов: Ислам Махачев",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "sports"
-      ],
-      "runtime": 23,
-      "rating": 7,
-      "language": "other",
-      "desc": "Mixed martial artist Islam Makhachev spends several days in his native Dagestan, sharing his everyday life outside of major tournaments: night fishing, a farm visit, a game of…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-20"
-    },
-    {
       "title": "Pompeii: Out of Time with Tom Hiddleston",
       "type": "series",
       "year": 2026,
@@ -2825,137 +2686,6 @@
       "pace": "normal",
       "violence": false,
       "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "The Rules of Vacation",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "The Rules of Vacation follows a newly unemployed woman who takes a summer vacation at her late grandmother's villa, only to cross paths with a mysterious caretaker.",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "Furious",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "crime",
-        "thriller"
-      ],
-      "runtime": 53,
-      "rating": 7,
-      "language": "en",
-      "desc": "Furious follows an FBI agent, Alice Black, on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "Game Day Murders",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "crime"
-      ],
-      "runtime": 60,
-      "rating": 7,
-      "language": "en",
-      "desc": "Through firsthand accounts from families, teammates, and those closest to the cases, each episode of Game Day Murders paints a vivid cultural portrait of the inner workings and…",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "Force of Nature",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "nature"
-      ],
-      "runtime": 47,
-      "rating": 7,
-      "language": "en",
-      "desc": "Force of Nature is a groundbreaking series filmed over three years, revealing how nature is fighting back against today's extreme weather. Witness the scale and ferocity of…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "The Rapture",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "thriller"
-      ],
-      "runtime": 57,
-      "rating": 7,
-      "language": "en",
-      "desc": "The Rapture is a high-stakes thriller which crackles with danger. Set in a heatwave, with protestors on the streets, forensic psychologist Gabs Fox starts a new job at a…",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "Your Third",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Sam has been secretly in love with someone for years. Just when he finally musters the courage to confess and start a relationship, his older brother, Song, swoops in and steals…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
       "source": "auto",
       "added": "2026-07-27"
     },
@@ -6029,6 +5759,280 @@
       "romanceCentral": true,
       "source": "auto",
       "added": "2026-10-12"
+    },
+    {
+      "title": "Die Falle",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "thriller"
+      ],
+      "runtime": 49,
+      "rating": 7.5,
+      "language": "other",
+      "desc": "A reclusive writer catches sight of her sister's murderer on TV. She knows no one will believe her — so she lays a trap to catch the killer herself.",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "Crystal Lake",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "runtime": 50,
+      "rating": 7.4,
+      "language": "en",
+      "desc": "A dark secret from Pamela Voorhees' past emerges after her son's death, just as bodies begin turning up across the quiet town of Crystal Lake.",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "MaeBee",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "children"
+      ],
+      "runtime": 7,
+      "rating": 7,
+      "language": "en",
+      "desc": "MaeBee, brings tales of community, nature and self-growth following the small but mighty adventures of Mae, a determined young gnome with big dreams, and her quirky foster twin…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "Where the Mask Ends",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 52,
+      "rating": 7,
+      "language": "other",
+      "desc": "Chou was once a lowly night-soil collector, bullied and mistreated by everyone around her. But her striking resemblance to Wei Rao, the daughter of a marquis, unexpectedly makes…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "Besties' Coming Fortune",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 14,
+      "rating": 7,
+      "language": "other",
+      "desc": "Modern-day best friends Tian Yuyuan and Lin Shutiao unexpectedly find themselves transported into a novel about household power struggles. They become sisters-in-law destined to…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "Dream",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "mystery"
+      ],
+      "runtime": 48,
+      "rating": 7,
+      "language": "other",
+      "desc": "Years ago, journalist Shen Leshui documented the lives of workers at the old Lacheng Brewery. Now she returns to Lacheng with her camera, searching for stories forgotten by time.…",
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "Organize İşler: Karun Hazinesi",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "action",
+        "crime"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "When a mythical map falls into the hands of a legendary scam artist, he decides to pull one last con before leaving it all behind for good.",
+      "moods": [
+        "laugh",
+        "thrill",
+        "escape"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "Hometown Giants",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "sports"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "Michael Bublé and Drew Scott step into the unpredictable world of junior hockey as part-owners of the Vancouver Giants, where teenage players chasing a shot at the NHL face…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "Echo of a Letter",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 36,
+      "rating": 7,
+      "language": "other",
+      "desc": "Smooth and tactful, Chen Wan can handle anything other than his feelings for Zhao Shengge. A business venture brings them together as partners, and Zhao Shengge unexpectedly…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "Седьмой игрок",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy",
+        "sports"
+      ],
+      "runtime": 27,
+      "rating": 7,
+      "language": "other",
+      "desc": "\"Stroitel\" club was once a successful team, and its owner dreamed of one day having the chance to move beyond its current league and earn a place in the KHL. But the players and…",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "The Phoenix Perches",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "runtime": 17,
+      "rating": 7,
+      "language": "other",
+      "desc": "Time-traveler Su Xiaochen paints fan art of the Prince to survive, uncovering his alter egos—which her kiss can swap.",
+      "moods": [
+        "laugh",
+        "escape",
+        "feels"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-19"
+    },
+    {
+      "title": "First Love Again",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance",
+        "sports"
+      ],
+      "runtime": 36,
+      "rating": 7,
+      "language": "other",
+      "desc": "Zhou Xiangxiang, a spirited and aspirational girl, and Gu Han, an aloof basketball prodigy, are childhood friends who reunite after years apart due to a misunderstanding. As their…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-19"
     }
   ]
 }
