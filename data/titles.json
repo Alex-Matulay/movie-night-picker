@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "source": "curated",
   "titles": [
     {
@@ -2667,271 +2667,6 @@
       "violence": false,
       "romanceCentral": false,
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
-    },
-    {
-      "title": "Pompeii: Out of Time with Tom Hiddleston",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "history"
-      ],
-      "runtime": 60,
-      "rating": 7.2,
-      "language": "en",
-      "desc": "A historical exploration about the eruption of Vesuvius in 79 A.D. and the preserved Roman city it left behind.Tom Hiddleston asks: Could anyone survive Pompeii's final day?…",
-      "moods": [
-        "think"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "Taakstraf",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Five very different teenagers are sentenced to community service. Under the supervision of a clumsy supervisor, every assignment leads to chaos, conflict and romance, while an…",
-      "moods": [
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "Locker Diaries: Descendants",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "fantasy"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "en",
-      "desc": "Glimpse the drama happening in the school hallways of Auradon Prep and discover the secret adventures that unfold.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "Похищение",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "thriller",
-        "mystery"
-      ],
-      "runtime": 49,
-      "rating": 7,
-      "language": "other",
-      "desc": "MVD Captain Aglaia Mezentseva and investigator Vsevolod Kosinsky, one of the best specialists in child abduction cases, are unraveling the case of the missing 5-year-old grandson…",
-      "moods": [
-        "thrill",
-        "think"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "Yagami Eiko: Ueno Chuo Police Station Organized Crime Countermeasures Division",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "crime",
-        "thriller"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Set in the culturally diverse Ueno district of Tokyo, the story follows Eiko Yagami, a beautiful and dangerous detective in the Organized Crime Countermeasures Division…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "Spring Over Phoenix Pond",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 12,
-      "rating": 7,
-      "language": "other",
-      "desc": "Qi Yuan, the butcher's daughter, was the true heiress of the Marquis Residence who was switched at birth. The fake heiress framed and humiliated Qi Yuan to protect herself. Forced…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-07-27"
-    },
-    {
-      "title": "Night Tales",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 38,
-      "rating": 7,
-      "language": "other",
-      "desc": "Ye Xiaowei, a winemaker from a humble background, suffers a double betrayal, from her lover Cheng An and her mentor Lin Wanmei. Rising from the ashes of hatred, she assumes the…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
-      "title": "Genius Girlfriend",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 44,
-      "rating": 7,
-      "language": "other",
-      "desc": "The genius Lin Zhixia is straightforward and reserved, never ever having a close friend. Admitted to Provincial No. 1 Middle School, she meets the sunny top student Jiang Yubai in…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
-      "title": "Naked and Afraid: Shipwrecked",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "adventure",
-        "nature"
-      ],
-      "runtime": 120,
-      "rating": 7,
-      "language": "en",
-      "desc": "Under the impression that they are entering a standard 35-day group challenge at dawn, the survivalists instead begin their insertion adrift at sea overnight. With emergency…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
-      "title": "Decades in Sports",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "history",
-        "sports"
-      ],
-      "runtime": 60,
-      "rating": 7,
-      "language": "en",
-      "desc": "Decades in Sports explores the cultural and political milestones that transformed sports and helped shape America. Across six episodes, it examines the defining moments, athletes,…",
-      "moods": [
-        "think"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
-      "title": "L.O.L. Surprise! The Next Headliner",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy",
-        "children",
-        "musical"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "en",
-      "desc": "Five aspiring performers compete for a coveted music industry opportunity, only to discover that their greatest strength lies in collaboration rather than rivalry. As they…",
-      "moods": [
-        "laugh",
-        "feels",
-        "escape"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
-      "title": "Dictator: The Hitler Interviews",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "history"
-      ],
-      "runtime": 47,
-      "rating": 7,
-      "language": "en",
-      "desc": "With populist leaders thriving and dictatorships on the rise, this series looks at Hitler from a different perspective - through his friends, enablers and associates. For the…",
-      "moods": [
-        "think"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-03"
     },
     {
       "title": "Нам кранты",
@@ -6033,6 +5768,276 @@
       "romanceCentral": true,
       "source": "auto",
       "added": "2026-10-19"
+    },
+    {
+      "title": "Summer Vacation",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "fantasy",
+        "romance",
+        "mystery"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Tells the story of an ordinary 18-year-old high school girl returning to reality after having her mysterious experiences on her summer vacation.",
+      "moods": [
+        "escape",
+        "feels",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "Minimum Wage",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 16,
+      "rating": 7,
+      "language": "en",
+      "desc": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "Adultery",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 47,
+      "rating": 7,
+      "language": "en",
+      "desc": "Adultery introduces us to Tom's 15-year-old daughter Jess who has found love with schoolmate Ollie, and they can't take their hands off one another, as love's young dream becomes…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "Tamed",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 20,
+      "rating": 7,
+      "language": "other",
+      "desc": "Haunted by childhood trauma, Cheng Yu'an has shut himself off from the world. One rainy night, he takes in Lin Qi and they begin living together under a \"master and pet\" contract.…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "The Wolves of Real Estate: The Alexander Brothers",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "The Wolves of Real Estate tells the story of three brothers who were recently convicted of preying on women for more than a decade, masquerading as party boys while allegedly…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "Open House Outrageous",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "travel"
+      ],
+      "runtime": 30,
+      "rating": 7,
+      "language": "en",
+      "desc": "Interior designer Megan Batoon and comedian Tim Chantarangsu taking exciting tours of unusual vacation homes and distinctive stays in destinations.",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "Bionic Trace",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "scifi",
+        "mystery"
+      ],
+      "runtime": 14,
+      "rating": 7,
+      "language": "other",
+      "desc": "In 2035, Song Yang, a top student specializing in AI, is falsely accused of murdering his girlfriend and her daughter. While on the run, he teams up with Ada, an android who has…",
+      "moods": [
+        "feels",
+        "think",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "The Sound of Sugar Cubes",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "musical",
+        "romance"
+      ],
+      "runtime": 25,
+      "rating": 7,
+      "language": "other",
+      "desc": "An orphan, Han Yul didn't have much in life but a dream to become a singer. That is, till he saw his best friend mercilessly murdered by someone he looked up to. Harold. Popular.…",
+      "moods": [
+        "feels",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "A Course Called Ireland",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "travel",
+        "sports"
+      ],
+      "runtime": 29,
+      "rating": 7,
+      "language": "en",
+      "desc": "This isn't just a show about golf — it's a celebration of life going gloriously off course. In this series, Bill Murray and good friend and author, Tom Coyne play their way across…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "Tigers Sniff the Rose",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 47,
+      "rating": 7,
+      "language": "other",
+      "desc": "Defying the fate laid out for her, Princess Mu Wanyao joins forces with Yan Shang, a young man of humble origins with an unrivaled gift for strategy, to forge a realm of peace and…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "Last One Laughing: Halloween",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 32,
+      "rating": 7,
+      "language": "en",
+      "desc": "Over the course of the first Halloween special, the famous faces will use every ounce of their comedic talent to break their opponents without laughing or screaming. And it's not…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-26"
+    },
+    {
+      "title": "Grande de España",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy"
+      ],
+      "runtime": 28,
+      "rating": 7,
+      "language": "other",
+      "desc": "Don Leandro, a ruined marquis who lives on appearances and dreams of being named a Grandee of Spain, sees only one way out of his financial disaster: selling his decaying family…",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-10-26"
     }
   ]
 }
