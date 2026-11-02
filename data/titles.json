@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-11-02",
   "source": "curated",
   "titles": [
     {
@@ -2669,139 +2669,6 @@
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
     },
     {
-      "title": "Нам кранты",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy",
-        "crime"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Three teenagers get their hands on gas cutting equipment. Deciding to earn some extra money, the boys take the car of a police officer neighbor and go to an abandoned construction…",
-      "moods": [
-        "laugh",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
-      "title": "The Cloud is Gone The Hibiscus Remains",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 13,
-      "rating": 7,
-      "language": "other",
-      "desc": "The drama follows Tang Xi Jin and Lie Yun Zheng's touching romance as they face challenges and stay true to their hearts. Through love, growth, and adversity, they discover that…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
-      "title": "The Affair Was Just the Beginning",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "runtime": 51,
-      "rating": 7,
-      "language": "other",
-      "desc": "Two neighbouring couples—a picture-perfect influencer pair and a divorcing doctor duo—are pulled into a darkly comic spiral when dangerous secrets collide.",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
-      "title": "Play Me",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Two aspiring actors have been in love since high school. Separated by adulthood, they made a promise back then: to stand on stage together one day.",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
-      "title": "Put a Ring on It: Cheathab",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 60,
-      "rating": 7,
-      "language": "en",
-      "desc": "Put a Ring on It: Cheathab follows long-term couples whose relationships have been rocked by infidelity as they move into the Miami-based \"Cheathab House\" to confront the trust…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
-      "title": "Mystic Nine",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "action",
-        "adventure"
-      ],
-      "runtime": 42,
-      "rating": 7,
-      "language": "other",
-      "desc": "Mystic Nine follows Zhang Qishan (William Chan) as he joins forces with Wu Laogou (Joseph Zeng), alongside Huo Xiangu (Chen Yao) and the other members of the Mystic Nine, when…",
-      "moods": [
-        "thrill",
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-03"
-    },
-    {
       "title": "Sterling Point",
       "type": "series",
       "year": 2026,
@@ -2816,143 +2683,6 @@
         "feels"
       ],
       "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-10"
-    },
-    {
-      "title": "The Road to Splendor",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 44,
-      "rating": 7,
-      "language": "other",
-      "desc": "Zhao Ling, a bold and loyal underground salt dealer, may come from humble origins, but he carries grand ambitions. He crosses paths with Fu Tingyun, a noble heiress wrongfully…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-10"
-    },
-    {
-      "title": "Love as Bait",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 11,
-      "rating": 7,
-      "language": "other",
-      "desc": "After a sudden accident, Lu Zaozao finds herself transported into the Republican era as Su Muwan, the young mistress of a wealthy family. She awakens to a husband pointing a gun…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-10"
-    },
-    {
-      "title": "The Chosen in the Wild with Bear Grylls",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "adventure"
-      ],
-      "runtime": 46,
-      "rating": 7,
-      "language": "en",
-      "desc": "The series follows the cast of the groundbreaking historical drama The Chosen as they take on challenges across forests, deserts, and canyons. Cast members Jonathan Roumie…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-10"
-    },
-    {
-      "title": "Räjähdyspiste",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Dead End is a six-part crime drama based on true events. It tells the story of the hostage tragedy of August 1986 — the day that stopped all of Finland and forever changed police…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-10"
-    },
-    {
-      "title": "The Great Queen",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "fantasy",
-        "romance"
-      ],
-      "runtime": 13,
-      "rating": 7,
-      "language": "other",
-      "desc": "Thrust into a mystic realm amid a kingdom's civil war, modern girl Xi Yuan awakens her hidden phoenix power. Risking everything, she defies the highest divine law and uses her…",
-      "moods": [
-        "feels",
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-10"
-    },
-    {
-      "title": "München Beats",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "family",
-        "musical"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "When young Linda Bierwirth who grew up on a farm outside Munich—comes into contact with the pulsating techno scene in the mid-1990s, she embarks on a journey of self-discovery.…",
-      "moods": [
-        "feels",
-        "cozy",
-        "escape"
-      ],
-      "tone": "light",
       "pace": "normal",
       "violence": false,
       "romanceCentral": false,
@@ -6038,6 +5768,277 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-10-26"
+    },
+    {
+      "title": "Nocturne",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "runtime": 54,
+      "rating": 9,
+      "language": "en",
+      "desc": "Nocturne tells the story of Jonah Lynn, an ex-soldier turned homicide detective who, tired of working the tough streets of Philadelphia, moves to a small town in Western…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "Jack Dee's Help Me Tiny Big Brain",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 40,
+      "rating": 7,
+      "language": "en",
+      "desc": "Each episode sees three junior geniuses (the Tiny Big Brains) paired with three different comics who try their best not to scupper the Tiny Big Brains' chances of victory!",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "Unskilled Adult",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "diy"
+      ],
+      "runtime": 53,
+      "rating": 7,
+      "language": "en",
+      "desc": "After years of successfully mucking around for a living, Hamish Blake has realised when it comes to practical skills, he doesn't have many. To remedy this, Hamish starts a…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "Notes of DNA Appraiser",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "mystery"
+      ],
+      "runtime": 20,
+      "rating": 7,
+      "language": "other",
+      "desc": "Notes of DNA Appraiser tells the story of Xu Ziqi, a rookie DNA paternity tester. Under the guidance of Mo Li, director of the Xin Nuo Paternity Testing Center, she teams up with…",
+      "moods": [
+        "think",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "Blue Planet III",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "nature"
+      ],
+      "runtime": 58,
+      "rating": 7,
+      "language": "en",
+      "desc": "Blue Planet III will build on its groundbreaking legacy, redefining the realm of possibility in underwater wildlife film-making. Taking the wonder, immersion, and discovery of the…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "Красота",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "The end of the 80s, a time of change and high hopes. Vera, the director of the House of Culture, launches the country's first beauty contest, despite the displeasure of officials.…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "Breitscheidplatz 19/12",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "About a week before Christmas 2016, a truck plowed into the popular holiday market at Breitscheidplatz, a crowded public square. Twelve people died and many were injured in…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "Dead-End Job",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "horror",
+        "mystery",
+        "fantasy"
+      ],
+      "runtime": 38,
+      "rating": 7,
+      "language": "other",
+      "desc": "Dead-End Job follows, a young man who takes on a seemingly perfect part-time job offering 50 times the usual hourly wage through a mysterious employment agency called Spyder Human…",
+      "moods": [
+        "thrill",
+        "think",
+        "escape"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "Bytet",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "thriller"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Helene and Carl trade their home in Stockholm's archipelago for a sun-drenched villa in Sicily, swapping lives for some weeks with Scarlett and Adam; a couple they've never met.…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "How to Ruin Diwali: Meet the Parents",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "A hidden engagement forces a proud Zulu family and an Indian medical dynasty under one roof as secrets and colliding customs threaten to derail Diwali.",
+      "moods": [
+        "laugh",
+        "feels"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "My Rival & Me",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Acclaimed actor Gu Yi Liang and rising star Wei Yan Zi are sworn rivals in the eyes of their fans. But when Wei Yan Zi accidentally discovers a fan community dedicated to shipping…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-11-02"
+    },
+    {
+      "title": "Obsess",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "runtime": 55,
+      "rating": 7,
+      "language": "other",
+      "desc": "A jealous ex's \"separation magic\" incantation targets a loving couple's marriage — unleashing a dark wave of black magic in this folklore-rooted horror.",
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-02"
     }
   ]
 }
