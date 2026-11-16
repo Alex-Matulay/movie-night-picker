@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "source": "curated",
   "titles": [
     {
@@ -2667,270 +2667,6 @@
       "violence": false,
       "romanceCentral": false,
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
-    },
-    {
-      "title": "Lanterns",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "action",
-        "adventure",
-        "scifi"
-      ],
-      "runtime": 60,
-      "rating": 8.2,
-      "language": "en",
-      "desc": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American…",
-      "moods": [
-        "thrill",
-        "escape",
-        "think"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-17"
-    },
-    {
-      "title": "I'd Do It All Over Again For You",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "fantasy",
-        "romance"
-      ],
-      "runtime": 14,
-      "rating": 7,
-      "language": "other",
-      "desc": "A female lawyer, Gu Xingcan, infiltrates a criminal organization to avenge her father's death. Betrayed and thrown into the sea, she is rescued by Chen Yao, a soul ferryman.…",
-      "moods": [
-        "feels",
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-17"
-    },
-    {
-      "title": "Sexslaven",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "crime"
-      ],
-      "runtime": 44,
-      "rating": 7,
-      "language": "other",
-      "desc": "A harrowing two-part documentary chronicling how a mother of five suddenly found herself being sold to unknown men... by her own partner",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-17"
-    },
-    {
-      "title": "Why Are You Single?",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 33,
-      "rating": 7,
-      "language": "en",
-      "desc": "Comedian Marie Faustin, hosts as singles face outrageous challenges, reveal their biggest red flags, and fight for a shot at love!",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-17"
-    },
-    {
-      "title": "Hollywood Crime Story: The Mob Takes Over the Movies",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "crime"
-      ],
-      "runtime": 48,
-      "rating": 7,
-      "language": "en",
-      "desc": "A gripping documentary series uncovering how organized crime infiltrated Hollywood across the 20th century. As stars and gangsters overlapped, the line between glamour and crime…",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-17"
-    },
-    {
-      "title": "Conversations with a Killer: The Charles Manson Tapes",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "crime"
-      ],
-      "runtime": 57,
-      "rating": 7,
-      "language": "en",
-      "desc": "In never-before-heard prison calls recorded before his death, convicted killer Charles Manson reveals the twisted motivations for his gruesome crimes.",
-      "moods": [
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-17"
-    },
-    {
-      "title": "ОПГ",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy"
-      ],
-      "runtime": 48,
-      "rating": 7,
-      "language": "other",
-      "desc": "\"OPG\" is a good comedy about how it's never too late to change and change the world for the better. The series' main character is a provincial bandit nicknamed Vorkuta, who lived…",
-      "moods": [
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "NFL Hometown Eats",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "food",
-        "sports"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "en",
-      "desc": "NFL Hometown Eats combines football, food, and fandom in one delicious package. Each episode, a celebrity superfan teams up with an NFL player to explore the best restaurants…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "The Dynasty: UConn Huskies",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "sports"
-      ],
-      "runtime": 42,
-      "rating": 7,
-      "language": "en",
-      "desc": "Go inside the most dominant program in college basketball history as Geno Auriemma pushes his players to the limit to win 12 titles. Rebecca Lobo, Diana Taurasi, Paige Bueckers,…",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "Zhòu Duǎn Yè Cháng",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama"
-      ],
-      "runtime": 4,
-      "rating": 7,
-      "language": "other",
-      "desc": "On the first day of their divorce cooling-off period, Lu Zhengdong, Lin Banxia's estranged husband, suddenly experiences a bizarre glitch —his body begins uncontrollably switching…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "Cicada",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "family",
-        "legal"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Ding Ning, a criminal defense lawyer whose biological dad is a kidnapper and whose stepfather is a criminal police officer, crosses paths with Yu Songfan, a chief judge grieving…",
-      "moods": [
-        "feels",
-        "cozy"
-      ],
-      "tone": "light",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "S&X",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "At his clinic, sex therapist Ichito Shimotori treats diverse and intimate sexual issues with sincerity. Yet, he secretly hides a struggle of his own.",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-24"
     },
     {
       "title": "Emergência 53",
@@ -6045,6 +5781,271 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-11-09"
+    },
+    {
+      "title": "Mark of a Murderer",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 48,
+      "rating": 7,
+      "language": "en",
+      "desc": "A gripping Australian true crime series revealing the truth about two men convicted of murder - Andrew Mallard and Simon Rochford.Former journalist, now MP Colleen Egan exposes…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "Love Game with My Enemy",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "The plot begins with a game driven by revenge, in which love becomes a weapon. But how long can feelings survive when everything starts with a desire for revenge?",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "America's Funniest People",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 30,
+      "rating": 7,
+      "language": "en",
+      "desc": "From savage jokes and wild stunts to outrageous pranks, questionable decisions, and unforgettable viral moments, each episode showcases the kind of social content you can't…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "Blossom in Darkness",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "runtime": 47,
+      "rating": 7,
+      "language": "other",
+      "desc": "The play is adapted based on Guoguo's novel of the same name. Big Demon Qi Fengyin (acted by Li Hongyi), born out of evil thoughts, is locked in the Panic Mountain Barrier due to…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "El crimen de Pazos",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "runtime": 43,
+      "rating": 7,
+      "language": "other",
+      "desc": "In the quiet village of Pazos, Aniceto and his wife Irene appear to be the perfect couple until one night, when she suffers a brutal attack during an apparent robbery. As she…",
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "Stars and Vows: Anele & Buzza",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "romance"
+      ],
+      "runtime": 46,
+      "rating": 7,
+      "language": "en",
+      "desc": "Follow media darling Anele Mdoda and her royal fiance Buzza James from pre-wedding celebrations and tense family moments to their long-awaited \"I do.\"",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "Wśród nocnej ciszy",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "runtime": 54,
+      "rating": 7,
+      "language": "other",
+      "desc": "The series follows the brutal murder of a pregnant woman, her husband, and her young brother on a dark country road. It exposes the subsequent cover-up, the wall of silence kept…",
+      "moods": [
+        "feels",
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "The Awakened",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 37,
+      "rating": 7,
+      "language": "other",
+      "desc": "A man awakens from suspended animation with memories of 1955 and reunites with his grandson, while a boxer begins recovering mysterious memories connected to secrets beneath the…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "Clangold",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime",
+        "history"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Clangold explores the spectacular 2017 theft of the 100-kilogram \"Big Maple Leaf\" gold coin from Berlin's Bode Museum. Through the perspectives of investigators, the four-part…",
+      "moods": [
+        "thrill",
+        "think"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "Az igazság mániákusai",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "crime"
+      ],
+      "runtime": 58,
+      "rating": 7,
+      "language": "other",
+      "desc": "This two-part documentary series explores Hungary's most notorious and high-profile criminal cases following the fall of communism through the regular dinner gatherings of a…",
+      "moods": [
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "Rise of the Underdog",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama"
+      ],
+      "runtime": 12,
+      "rating": 7,
+      "language": "other",
+      "desc": "Ma Dawei's previous life ends in prison and family ruin, but he suddenly returns to the turning point of his fate. He resolutely avoids the pitfalls, grasps the opportunities of…",
+      "moods": [
+        "feels"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-16"
+    },
+    {
+      "title": "Cunk on Cinema",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "history"
+      ],
+      "runtime": 29,
+      "rating": 7,
+      "language": "en",
+      "desc": "Philomena Cunk will be asking experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right…",
+      "moods": [
+        "laugh",
+        "think"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-16"
     }
   ]
 }
