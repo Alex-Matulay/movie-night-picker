@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-23",
   "source": "curated",
   "titles": [
     {
@@ -2667,272 +2667,6 @@
       "violence": false,
       "romanceCentral": false,
       "desc": "Three branches of one sprawling family, eleven seasons of reliable laughs. Easy to drop in anywhere."
-    },
-    {
-      "title": "Emergência 53",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "action"
-      ],
-      "runtime": 42,
-      "rating": 7,
-      "language": "other",
-      "desc": "Emergência 53 follows a rogue Rio de Janeiro ambulance crew navigating, often bypassing, strict protocols to save lives amidst a chaotic urban environment. The series balances…",
-      "moods": [
-        "feels",
-        "thrill",
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "Indefendable: Sans Trace",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "crime",
-        "thriller"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "A few weeks before the Season 4 finale of Indéfendable, two former clients of the Lapointe, MacDonald &amp; Nolin law firm, both acquitted of separate crimes, find their destinies…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "fast",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "Born Again",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 14,
-      "rating": 7,
-      "language": "other",
-      "desc": "Top influencer Gu Xiaotang's grand wedding turns into a murder scene, orchestrated by her husband, best friend, and agency. Trapped in an infinite time loop of that very day, she…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "Faraway With You",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 14,
-      "rating": 7,
-      "language": "other",
-      "desc": "Living between Beijing and Tianjin, Fang Yuan falls from the highs of career and love into a difficult crossroads. With Meng Yu by his side, he rebuilds his life through…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "A Beautiful Obsession",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "sports"
-      ],
-      "runtime": 39,
-      "rating": 7,
-      "language": "en",
-      "desc": "An intimate, raw portrait of Manchester City FC across two era-defining seasons. With unprecedented access, the film follows their worst run in decades and fightback to glory.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "LION",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "nature"
-      ],
-      "runtime": 60,
-      "rating": 7,
-      "language": "en",
-      "desc": "The extraordinary true story of lion cub Kio, on his journey to become a king.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-24"
-    },
-    {
-      "title": "Blossom through the Cloud",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "romance"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "After becoming a top pilot, Ruan Sixian reunites with Fu Mingyu as love, ambition, and misunderstandings test their bond.",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-31"
-    },
-    {
-      "title": "Пора на завод",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy"
-      ],
-      "runtime": 30,
-      "rating": 7,
-      "language": "other",
-      "desc": "Young and successful Moscow investor Vadim changes his привычный life dramatically for the sake of his love for his girlfriend Tanya. To earn the respect of Tanya's father, Igor…",
-      "moods": [
-        "laugh"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-31"
-    },
-    {
-      "title": "Beyond Wukong",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "fantasy"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "Born from a sacred stone, Sun Xiaosheng sets out west to uncover a deadly mystery and forge his own legend.",
-      "moods": [
-        "escape"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-31"
-    },
-    {
-      "title": "The VI Group of Fatal Case",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "crime"
-      ],
-      "runtime": 20,
-      "rating": 7,
-      "language": "other",
-      "desc": "In the early 1990s, on the eve of the formation of Serious Crime Unit Six in Dong'an City, provincial detective Zeng Keqiang is transferred to the local major crimes unit for a…",
-      "moods": [
-        "feels",
-        "thrill"
-      ],
-      "tone": "heavy",
-      "pace": "normal",
-      "violence": true,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-31"
-    },
-    {
-      "title": "Mr. Fanboy",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "drama",
-        "romance"
-      ],
-      "runtime": 55,
-      "rating": 7,
-      "language": "other",
-      "desc": "University student Wan has a fanboy hobby, following and photographing rising star Nine. When Wan gets a casting opportunity for a support role in a Y series his idol will be…",
-      "moods": [
-        "feels"
-      ],
-      "tone": "medium",
-      "pace": "normal",
-      "violence": false,
-      "romanceCentral": true,
-      "source": "auto",
-      "added": "2026-08-31"
-    },
-    {
-      "title": "Капитан Туман",
-      "type": "series",
-      "year": 2026,
-      "genres": [
-        "comedy",
-        "mystery"
-      ],
-      "runtime": 45,
-      "rating": 7,
-      "language": "other",
-      "desc": "After the assassination attempt, Captain Vitaly Tumansky is determined to find the culprits at any cost. But at the same time, he has to deal with routine matters and learn to…",
-      "moods": [
-        "laugh",
-        "think",
-        "thrill"
-      ],
-      "tone": "light",
-      "pace": "fast",
-      "violence": false,
-      "romanceCentral": false,
-      "source": "auto",
-      "added": "2026-08-31"
     },
     {
       "title": "The Phoenix's Other Self",
@@ -6046,6 +5780,277 @@
       "romanceCentral": false,
       "source": "auto",
       "added": "2026-11-16"
+    },
+    {
+      "title": "Lucy Worsley's Keys to the Castle",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "history"
+      ],
+      "runtime": 58,
+      "rating": 7,
+      "language": "en",
+      "desc": "Lucy Worsley's Keys to the Castle opens up the hidden rooms, sealed archives and private spaces, to uncover the untold stories behind the buildings and the people who lived in…",
+      "moods": [
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "Dig",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "Dig follows a team of dedicated archaeologists (and less-dedicated college students) who spend their summer working on a dig site in Greece. Their discovery of a rare artifact…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "New Wave",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "musical"
+      ],
+      "runtime": 60,
+      "rating": 7,
+      "language": "en",
+      "desc": "This series tells the fascinating story of New Wave music and the decade from 1977 to 1987 that brought alternative culture into the mainstream. The four-part series will take us…",
+      "moods": [
+        "feels",
+        "escape"
+      ],
+      "tone": "light",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "The Witch Farm",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "fantasy"
+      ],
+      "runtime": 57,
+      "rating": 7,
+      "language": "en",
+      "desc": "South Wales, 1989. Bill and Liz Rich leave London for Heol Fanog, a remote modern farmhouse in the foothills of the Brecon Beacons, determined to make a fresh start. At first, the…",
+      "moods": [
+        "feels",
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "Virgin Punk",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "animation"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "The story follows Ubu, a young woman who finds herself living the dangerous life of a bounty hunter. As she grapples with her inner turmoil, she becomes entangled in a world…",
+      "moods": [
+        "escape"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "Editorially Speaking",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "comedy"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "en",
+      "desc": "Editorially Speaking follows journalists at a fictional publication called \"Editorial Magazine\" as they navigate careers, relationships, and the fashion media industry.",
+      "moods": [
+        "feels",
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "Silent Echoes",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "crime"
+      ],
+      "runtime": 42,
+      "rating": 7,
+      "language": "other",
+      "desc": "In 2011, a murder case occurs at Jiugu Lake in Xiping City. Detective Ma Xuesong and rookie female officer Meng Wen begin investigating and discover the case is linked to the…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "heavy",
+      "pace": "normal",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "Fight for My Way",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy",
+        "romance",
+        "sports"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "After years of fiercely protecting each other from the sidelines, Hanz and Aira realize that their biggest challenge isn't conquering their dead-end careers, but risking their…",
+      "moods": [
+        "laugh",
+        "feels"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "Bill's included",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "comedy"
+      ],
+      "runtime": 27,
+      "rating": 7,
+      "language": "en",
+      "desc": "Bill's included follows Bill Beam, a well meaning but over enthusiastic divorcee who rents his spare rooms to students to stay afloat.As Bill tries - and often fails to be both…",
+      "moods": [
+        "laugh"
+      ],
+      "tone": "light",
+      "pace": "fast",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "River of No Return",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "history"
+      ],
+      "runtime": 46,
+      "rating": 7,
+      "language": "other",
+      "desc": "Adapted from the novel of the same name written by Ma Boyong, the story follows crown prince Zhu Zhanji, who is trapped in Nanjing and caught in a shocking conspiracy. Together…",
+      "moods": [
+        "feels",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "normal",
+      "violence": false,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "The Blue Road",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Bizarre murders discovered in two countries unite police as the brutal truth emerges.",
+      "moods": [
+        "feels",
+        "thrill",
+        "think"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": false,
+      "source": "auto",
+      "added": "2026-11-23"
+    },
+    {
+      "title": "Perfectos mentirosos",
+      "type": "series",
+      "year": 2026,
+      "genres": [
+        "drama",
+        "romance",
+        "thriller"
+      ],
+      "runtime": 45,
+      "rating": 7,
+      "language": "other",
+      "desc": "Jude Derry arrives at this exclusive university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. The three…",
+      "moods": [
+        "feels",
+        "thrill"
+      ],
+      "tone": "medium",
+      "pace": "fast",
+      "violence": true,
+      "romanceCentral": true,
+      "source": "auto",
+      "added": "2026-11-23"
     }
   ]
 }
